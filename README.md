@@ -20,3 +20,24 @@ This project aims to optimize metro schedules to reduce overcrowding in Istanbul
 
 The dataset used in this project is available at https://mega.nz/file/fYwwgJyZ#3wPd2ffYdY-0Nd5aVyq0gyWRTGoPUdL9jN8Ajqpyrnc. Due to its size and GitHub's file hosting limitations, the data cannot be uploaded to this repository. Please download it from the provided link to replicate or extend the analy
 
+## How to use?
+
+### Preprocessing
+
+Run the _Jupyter Notebooks_ in the following order to apply the preprocessing to data:
+1. `DataPreparing/datacleaning.ipynb`
+2. `DataPreparing/sum_of_passenger.ipynb`
+3. `DataPreparing/name_correction_hourly.ipynb`
+4. `DataPreparing/name_correction_daily.ipynb`
+
+### Feature Engineering
+
+Run `FeatureEngineering/metronumbergenerator.ipynb`, then run `FeatureEngineering/capacitycalculation.ipynb`.
+
+### Optimization
+
+Run `Optimization/optimization.ipynb`. The detailed report will be saved to `Data/output/reports/optimization_report.txt`.
+
+### Visualization (Optional)
+
+You can also run `Visualization/create_plots.ipynb` to generate plots. The plots will be saved to `Data/outputs/visuals`.
