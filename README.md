@@ -15,3 +15,8 @@ This project aims to optimize metro schedules to reduce overcrowding in Istanbul
 ## Discoveries
 - Significant overcrowding at several transfer hubs.
 - ILP results show balanced additional trips across stations, with weighted ILP slightly favoring transfer hubs.
+
+## Data Access
+
+The dataset used in this project is available at https://mega.nz/file/fYwwgJyZ#3wPd2ffYdY-0Nd5aVyq0gyWRTGoPUdL9jN8Ajqpyrnc. Due to its size and GitHub's file hosting limitations, the data cannot be uploaded to this repository. Please download it from the provided link to replicate or extend the analy
+
