@@ -1,4 +1,4 @@
-# yv202Optimization: Optimizing Service Allocation for Istanbul Rail Transfer Stations
+# YZV202 Optimization: Optimizing Service Allocation for Istanbul Rail Transfer Stations
 
 ## Overview
 This project aims to optimize metro schedules to reduce overcrowding in Istanbul's metro system. It focuses on analyzing passenger demand and trip schedules using IBB transaction data, employing Integer Linear Programming (ILP) and Weighted Integer Linear Programming (WILP) to determine the additional trips needed at transfer stations.
