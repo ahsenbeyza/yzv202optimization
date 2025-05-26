@@ -8,7 +8,7 @@ This project aims to optimize metro schedules to reduce overcrowding in Istanbul
 - Optimize trip schedules using limited available data.
 - Provide a scalable model for future enhancements.
 
-### Optimization
+## Optimization
 - **ILP Constraints**: Non-negative integer trips ensuring capacity meets or exceeds demand.
 - **Weighted ILP**: Prioritized transfer hubs, with minimal difference from unweighted results.
 
