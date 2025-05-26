@@ -1,0 +1,122 @@
+Station,Line,Direction,Hour,Additional_Trips,Passenger_Demand,Current_Trips,Capacity_Per_Trip
+Bostancı,M4,Kadıköy to Tavşantepe,7,6,1084.5,6.0,100.0
+Bostancı,M4,Kadıköy to Tavşantepe,8,9,1353.5,5.0,100.0
+Bostancı,M4,Kadıköy to Tavşantepe,9,3,1016.0,8.0,100.0
+Bostancı,M4,Kadıköy to Tavşantepe,17,4,1111.0,8.0,100.0
+Bostancı,M4,Kadıköy to Tavşantepe,18,5,1365.6666666666667,9.0,100.0
+Bostancı,M4,Tavşantepe to Kadıköy,7,6,1084.5,6.0,100.0
+Bostancı,M4,Tavşantepe to Kadıköy,8,9,1353.5,5.0,100.0
+Bostancı,M4,Tavşantepe to Kadıköy,9,3,1016.0,8.0,100.0
+Bostancı,M4,Tavşantepe to Kadıköy,17,4,1111.0,8.0,100.0
+Bostancı,M4,Tavşantepe to Kadıköy,18,5,1365.6666666666667,9.0,100.0
+Dudullu,M5,Samandıra Merkez to Üsküdar,7,6,1104.0,6.0,100.0
+Dudullu,M5,Samandıra Merkez to Üsküdar,8,10,1395.2,5.0,100.0
+Dudullu,M5,Samandıra Merkez to Üsküdar,9,4,1114.5,8.0,100.0
+Dudullu,M5,Samandıra Merkez to Üsküdar,16,4,1101.75,8.0,100.0
+Dudullu,M5,Samandıra Merkez to Üsküdar,17,8,1561.0,8.0,100.0
+Dudullu,M5,Samandıra Merkez to Üsküdar,18,20,2780.75,9.0,100.0
+Dudullu,M5,Üsküdar to Samandıra Merkez,8,3,1584.0,5.0,240.98
+Dudullu,M5,Üsküdar to Samandıra Merkez,17,1,1933.0,8.0,240.98
+Dudullu,M5,Üsküdar to Samandıra Merkez,18,5,3256.3333333333335,9.0,240.98
+Dudullu,M8,Bostancı to Parseller,7,9,1596.25,6.0,115.66
+Dudullu,M8,Bostancı to Parseller,8,14,2070.0,5.0,115.66
+Dudullu,M8,Bostancı to Parseller,9,5,1427.0,8.0,115.66
+Dudullu,M8,Bostancı to Parseller,17,2,989.6666666666666,8.0,115.66000000000001
+Dudullu,M8,Bostancı to Parseller,18,3,1281.3333333333333,9.0,115.66000000000001
+Dudullu,M8,Parseller to Bostancı,7,9,1399.6,6.0,100.0
+Dudullu,M8,Parseller to Bostancı,8,17,2070.0,5.0,100.0
+Dudullu,M8,Parseller to Bostancı,9,3,1021.25,8.0,100.0
+Dudullu,M8,Parseller to Bostancı,17,2,953.25,8.0,100.0
+Dudullu,M8,Parseller to Bostancı,18,5,1281.3333333333333,9.0,100.0
+Gayrettepe,M2,Hacıosman to Yenikapı,7,13,1826.0,6.0,100.0
+Gayrettepe,M2,Hacıosman to Yenikapı,8,25,3020.8,6.0,100.0
+Gayrettepe,M2,Hacıosman to Yenikapı,9,13,1787.0,6.0,100.0
+Gayrettepe,M2,Hacıosman to Yenikapı,16,7,1483.0,9.0,100.0
+Gayrettepe,M2,Hacıosman to Yenikapı,17,11,1947.6666666666667,9.0,100.0
+Gayrettepe,M2,Hacıosman to Yenikapı,18,18,2569.6,9.0,100.0
+Gayrettepe,M2,Yenikapı to Hacıosman,7,13,1826.0,6.0,100.0
+Gayrettepe,M2,Yenikapı to Hacıosman,8,25,3020.8,6.0,100.0
+Gayrettepe,M2,Yenikapı to Hacıosman,9,13,1787.0,6.0,100.0
+Gayrettepe,M2,Yenikapı to Hacıosman,16,7,1483.0,9.0,100.0
+Gayrettepe,M2,Yenikapı to Hacıosman,17,11,1947.6666666666667,9.0,100.0
+Gayrettepe,M2,Yenikapı to Hacıosman,18,18,2569.6,9.0,100.0
+Kozyatağı,M4,Kadıköy to Tavşantepe,7,9,1416.25,6.0,100.0
+Kozyatağı,M4,Kadıköy to Tavşantepe,8,13,1684.0,5.0,100.0
+Kozyatağı,M4,Kadıköy to Tavşantepe,9,5,1204.5,8.0,100.0
+Kozyatağı,M4,Kadıköy to Tavşantepe,16,6,1288.25,8.0,100.0
+Kozyatağı,M4,Kadıköy to Tavşantepe,17,12,1955.5,8.0,100.0
+Kozyatağı,M4,Kadıköy to Tavşantepe,18,17,2548.75,9.0,100.0
+Kozyatağı,M4,Tavşantepe to Kadıköy,7,9,1416.25,6.0,100.0
+Kozyatağı,M4,Tavşantepe to Kadıköy,8,13,1684.0,5.0,100.0
+Kozyatağı,M4,Tavşantepe to Kadıköy,9,5,1204.5,8.0,100.0
+Kozyatağı,M4,Tavşantepe to Kadıköy,16,6,1288.25,8.0,100.0
+Kozyatağı,M4,Tavşantepe to Kadıköy,17,12,1955.5,8.0,100.0
+Kozyatağı,M4,Tavşantepe to Kadıköy,18,17,2548.75,9.0,100.0
+Kozyatağı,M8,Bostancı to Parseller,7,1,689.0,6.0,108.8
+Kozyatağı,M8,Bostancı to Parseller,8,4,864.0,5.0,108.8
+Kozyatağı,M8,Bostancı to Parseller,17,4,1277.0,8.0,108.8
+Kozyatağı,M8,Bostancı to Parseller,18,8,1752.6666666666667,9.0,108.8
+Kozyatağı,M8,Parseller to Bostancı,7,1,689.0,6.0,108.8
+Kozyatağı,M8,Parseller to Bostancı,8,4,864.0,5.0,108.8
+Kozyatağı,M8,Parseller to Bostancı,17,4,1277.0,8.0,108.8
+Kozyatağı,M8,Parseller to Bostancı,18,8,1752.6666666666667,9.0,108.8
+Levent,M2,Hacıosman to Yenikapı,7,8,2761.4,6.0,205.6
+Levent,M2,Hacıosman to Yenikapı,8,14,3987.2,6.0,205.6
+Levent,M2,Hacıosman to Yenikapı,9,8,2621.2,6.0,205.6
+Levent,M2,Hacıosman to Yenikapı,16,7,3050.0,9.0,205.6
+Levent,M2,Hacıosman to Yenikapı,17,13,4360.833333333333,9.0,205.6
+Levent,M2,Hacıosman to Yenikapı,18,16,5090.333333333333,9.0,205.6
+Levent,M2,Yenikapı to Hacıosman,7,17,2183.8571428571427,6.0,100.0
+Levent,M2,Yenikapı to Hacıosman,8,26,3092.0,6.0,100.0
+Levent,M2,Yenikapı to Hacıosman,9,16,2129.0,6.0,100.0
+Levent,M2,Yenikapı to Hacıosman,16,22,3050.0,9.0,100.0
+Levent,M2,Yenikapı to Hacıosman,17,35,4360.833333333333,9.0,100.0
+Levent,M2,Yenikapı to Hacıosman,18,43,5090.333333333333,9.0,100.0
+Mahmutbey,M3,Bakırköy Sahil to Kayaşehir Merkez,7,3,2864.25,6.0,340.0
+Mahmutbey,M3,Bakırköy Sahil to Kayaşehir Merkez,8,4,2602.0,5.0,340.0
+Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,7,18,2544.8,6.0,116.24000000000001
+Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,8,19,2362.0,5.0,107.13600000000001
+Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,9,4,1309.0,8.0,117.755
+Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,16,2,960.0,8.0,100.0
+Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,17,6,1340.25,8.0,100.0
+Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,18,11,1946.0,9.0,100.0
+Mahmutbey,M7,Mahmutbey to Yıldız,7,2,2276.75,6.0,340.0
+Mahmutbey,M7,Mahmutbey to Yıldız,8,3,2241.75,5.0,340.0
+Mahmutbey,M7,Mahmutbey to Yıldız,18,1,3078.0,9.0,340.0
+Mahmutbey,M7,Yıldız to Mahmutbey,7,2,2276.75,6.0,340.0
+Mahmutbey,M7,Yıldız to Mahmutbey,8,3,2241.75,5.0,340.0
+Mahmutbey,M7,Yıldız to Mahmutbey,18,1,3078.0,9.0,340.0
+Yenibosna,M9,Ataköy to Olimpiyat,7,6,1099.5,6.0,100.0
+Yenibosna,M9,Ataköy to Olimpiyat,8,9,1267.75,5.0,100.0
+Yenibosna,M9,Ataköy to Olimpiyat,18,1,975.6666666666666,9.0,102.33333333333333
+Yenibosna,M9,Olimpiyat to Ataköy,7,6,1099.5,6.0,100.0
+Yenibosna,M9,Olimpiyat to Ataköy,8,9,1267.75,5.0,100.0
+Yenibosna,M9,Olimpiyat to Ataköy,18,1,975.6666666666666,9.0,100.0
+Yenikapı,M2,Hacıosman to Yenikapı,7,4,5467.5,6.0,580.0
+Yenikapı,M2,Hacıosman to Yenikapı,8,10,8958.0,6.0,580.0
+Yenikapı,M2,Hacıosman to Yenikapı,9,4,5446.75,6.0,580.0
+Yenikapı,M2,Yenikapı to Hacıosman,7,4,5467.5,6.0,580.0
+Yenikapı,M2,Yenikapı to Hacıosman,8,10,8958.0,6.0,580.0
+Yenikapı,M2,Yenikapı to Hacıosman,9,4,5446.75,6.0,580.0
+İkitelli Sanayi,M3,Bakırköy Sahil to Kayaşehir Merkez,17,2,934.3333333333334,8.0,100.0
+İkitelli Sanayi,M3,Bakırköy Sahil to Kayaşehir Merkez,18,10,1843.6666666666667,9.0,100.0
+İkitelli Sanayi,M3,Kayaşehir Merkez to Bakırköy Sahil,17,2,934.3333333333334,8.0,100.0
+İkitelli Sanayi,M3,Kayaşehir Merkez to Bakırköy Sahil,18,10,1843.6666666666667,9.0,100.0
+Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,7,28,3275.1428571428573,6.0,100.0
+Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,8,48,5255.571428571428,6.0,100.0
+Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,9,31,3626.0,6.0,100.0
+Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,16,25,3315.8333333333335,9.0,100.0
+Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,17,30,3827.0,9.0,100.0
+Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,18,34,4233.5,9.0,100.0
+Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,7,28,3275.1428571428573,6.0,100.0
+Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,8,48,5255.571428571428,6.0,100.0
+Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,9,31,3626.0,6.0,100.0
+Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,16,25,3315.8333333333335,9.0,100.0
+Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,17,30,3827.0,9.0,100.0
+Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,18,34,4233.5,9.0,100.0
+Şişli-Mecidiyeköy,M7,Mahmutbey to Yıldız,16,1,2788.3333333333335,8.0,340.0
+Şişli-Mecidiyeköy,M7,Mahmutbey to Yıldız,17,6,4489.0,8.0,340.0
+Şişli-Mecidiyeköy,M7,Mahmutbey to Yıldız,18,12,7020.666666666667,9.0,340.0
+Şişli-Mecidiyeköy,M7,Yıldız to Mahmutbey,16,1,2788.3333333333335,8.0,340.0
+Şişli-Mecidiyeköy,M7,Yıldız to Mahmutbey,17,6,4489.0,8.0,340.0
+Şişli-Mecidiyeköy,M7,Yıldız to Mahmutbey,18,12,7020.666666666667,9.0,340.0

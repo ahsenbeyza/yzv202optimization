@@ -1,0 +1,168 @@
+Station Name,Railway Line,Line Code
+Yenikapı,M1A,M1
+Aksaray,M1A,M1
+Emniyet-Fatih,M1A,M1
+Topkapı-Ulubatlı,M1A,M1
+Bayrampaşa-Maltepe,M1A,M1
+Sağmalcılar,M1A,M1
+Kocatepe,M1A,M1
+Otogar,M1A,M1
+Terazidere,M1A,M1
+Davutpaşa-YTÜ,M1A,M1
+Merter,M1A,M1
+Zeytinburnu,M1A,M1
+Bakırköy-İncirli,M1A,M1
+Bahçelievler,M1A,M1
+Ataköy-Şirinevler,M1A,M1
+Yenibosna,M1A,M1
+DTM-Dünya Ticaret Merkezi,M1A,M1
+Atatürk Havalimanı,M1A,M1
+Yenikapı,M1B,M1
+Aksaray,M1B,M1
+Emniyet-Fatih,M1B,M1
+Topkapı-Ulubatlı,M1B,M1
+Bayrampaşa-Maltepe,M1B,M1
+Sağmalcılar,M1B,M1
+Kocatepe,M1B,M1
+Otogar,M1B,M1
+Esenler,M1B,M1
+Menderes,M1B,M1
+Üçyüzlü,M1B,M1
+Bağcılar Meydan,M1B,M1
+Kirazlı,M1B,M1
+Yıldız,M7,M7
+Çağlayan,M7,M7
+Yenimahalle,M7,M7
+Kağıthane,M7,M7
+Alibeyköy,M7,M7
+Nurtepe,M7,M7
+Yeşilpınar,M7,M7
+Çırçır,M7,M7
+Veysel Karani-Akşemsettin,M7,M7
+Göztepe,M7,M7
+Karadeniz Mahallesi,M7,M7
+Tekstilkent-Giyimkent,M7,M7
+Oruçreis,M7,M7
+Mahmutbey,M7,M7
+Yenikapı,M2,M2
+Haliç,M2,M2
+Şişhane,M2,M2
+Taksim,M2,M2
+Osmanbey,M2,M2
+Şişli-Mecidiyeköy,M2,M2
+Gayrettepe,M2,M2
+Levent,M2,M2
+4. Levent,M2,M2
+Sanayi Mahallesi,M2,M2
+Seyrantepe,M2,M2
+İTÜ-Ayazağa,M2,M2
+Atatürk Oto Sanayi,M2,M2
+Darüşşafaka,M2,M2
+Hacıosman,M2,M2
+Kadıköy,M4,M4
+Ayrılık Çeşmesi,M4,M4
+Acıbadem,M4,M4
+Ünalan,M4,M4
+Göztepe,M4,M4
+Yenisahra,M4,M4
+Kozyatağı,M4,M4
+Bostancı,M4,M4
+Küçükyalı,M4,M4
+Maltepe,M4,M4
+Huzurevi,M4,M4
+Gülsuyu,M4,M4
+Esenkent,M4,M4
+Hastane-Adliye,M4,M4
+Soğanlık,M4,M4
+Kartal,M4,M4
+Yakacık,M4,M4
+Pendik,M4,M4
+Tavşantepe,M4,M4
+Sabiha Gökçen Havalimanı,M4,M4
+Üsküdar,M5,M5
+Fıstıkağacı,M5,M5
+Bağlarbaşı,M5,M5
+Altunizade,M5,M5
+Kısıklı,M5,M5
+Bulgurlu,M5,M5
+Ümraniye,M5,M5
+Çarşı,M5,M5
+Yamanevler,M5,M5
+Çakmak,M5,M5
+Altınşehir,M5,M5
+İmam H. Lisesi,M5,M5
+Dudullu,M5,M5
+Necip Fazıl,M5,M5
+Meclis,M5,M5
+Sarıgazi,M5,M5
+Sancaktepe,M5,M5
+Samandıra Merkez,M5,M5
+Çekmeköy,M5,M5
+Levent,M6,M6
+Nispetiye,M6,M6
+Etiler,M6,M6
+Boğaziçi Üniversitesi/Hisarüstü,M6,M6
+Bostancı,M8,M8
+Emin Ali Paşa,M8,M8
+Ayşe Kadın,M8,M8
+Kozyatağı,M8,M8
+K.Bakkalköy,M8,M8
+İçerenköy,M8,M8
+Kayışdağı,M8,M8
+Mevlana,M8,M8
+İMES,M8,M8
+MODOKO KEYAP,M8,M8
+Dudullu,M8,M8
+Huzur,M8,M8
+Parseller,M8,M8
+Bahariye,M9,M9
+Olimpiyat,M9,M9
+Ziya Gökalp Mahallesi,M9,M9
+İkitelli Sanayi,M9,M9
+Masko,M9,M9
+Halkalı Caddesi,M9,M9
+Atatürk Mah.,M9,M9
+15 Temmuz,M9,M9
+Mimar Sinan,M9,M9
+Doğu Sanayi,M9,M9
+29 Ekim Cumhuriyet,M9,M9
+Çobançeşme,M9,M9
+Yenibosna,M9,M9
+Ataköy,M9,M9
+Gayrettepe,M11,M11
+Kâğıthane,M11,M11
+Hasdal,M11,M11
+Kemerburgaz,M11,M11
+Göktürk,M11,M11
+İhsaniye,M11,M11
+İstanbul Havalimanı,M11,M11
+Kargo Terminali,M11,M11
+Taşoluk,M11,M11
+Arnavutköy Hastane,M11,M11
+Kirazlı,M3,M3
+Başakşehir-Metrokent,M3,M3
+Siteler,M3,M3
+Turgut Özal,M3,M3
+İkitelli Sanayi,M3,M3
+İSTOÇ,M3,M3
+Mahmutbey,M3,M3
+Yenimahalle,M3,M3
+Molla Gürani,M3,M3
+İlkyuva,M3,M3
+Haznedar,M3,M3
+İncirli,M3,M3
+Özgürlük Meydanı,M3,M3
+Bakırköy Sahil,M3,M3
+Bakırköy-İncirli,M3,M3
+Bağcılar Meydan,M3,M3
+Üçyüzlü,M3,M3
+Kayaşehir Merkez,M3,M3
+Toplu Konutlar,M3,M3
+Onurkent,M3,M3
+Şehir Hastanesi,M3,M3
+Başak Konutları,M3,M3
+Fulya,M7,M7
+Vezneciler,M2,M2
+Fevzi Çakmak-Hastane,M4,M4
+Yayalar-Şeyhli,M4,M4
+Ihlamurkuyu,M5,M5

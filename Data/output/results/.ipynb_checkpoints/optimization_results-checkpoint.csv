@@ -1,0 +1,516 @@
+Date,Station,Line,Direction,Hour,Additional_Trips,Passenger_Demand,Current_Trips,Capacity_Per_Trip
+2024-09-01,Gayrettepe,M2,Hacıosman to Yenikapı,17,1,910,9,100.0
+2024-09-01,Gayrettepe,M2,Yenikapı to Hacıosman,17,1,910,9,100.0
+2024-09-01,Levent,M2,Hacıosman to Yenikapı,16,4,2135,9,172.0
+2024-09-01,Levent,M2,Hacıosman to Yenikapı,17,4,2153,9,172.0
+2024-09-01,Levent,M2,Hacıosman to Yenikapı,18,3,2008,9,172.0
+2024-09-01,Levent,M2,Yenikapı to Hacıosman,7,2,709,6,100.0
+2024-09-01,Levent,M2,Yenikapı to Hacıosman,8,3,899,6,100.0
+2024-09-01,Levent,M2,Yenikapı to Hacıosman,9,4,913,6,100.0
+2024-09-01,Levent,M2,Yenikapı to Hacıosman,16,13,2135,9,100.0
+2024-09-01,Levent,M2,Yenikapı to Hacıosman,17,13,2153,9,100.0
+2024-09-01,Levent,M2,Yenikapı to Hacıosman,18,12,2008,9,100.0
+2024-09-01,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,7,5,1050,6,100.0
+2024-09-01,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,8,6,1142,6,100.0
+2024-09-01,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,9,8,1334,6,100.0
+2024-09-01,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,16,20,2819,9,100.0
+2024-09-01,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,17,17,2522,9,100.0
+2024-09-01,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,18,17,2589,9,100.0
+2024-09-01,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,7,5,1050,6,100.0
+2024-09-01,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,8,6,1142,6,100.0
+2024-09-01,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,9,8,1334,6,100.0
+2024-09-01,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,16,20,2819,9,100.0
+2024-09-01,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,17,17,2522,9,100.0
+2024-09-01,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,18,17,2589,9,100.0
+2024-09-04,Bostancı,M4,Kadıköy to Tavşantepe,7,5,1064,6,100.0
+2024-09-04,Bostancı,M4,Kadıköy to Tavşantepe,8,8,1286,5,100.0
+2024-09-04,Bostancı,M4,Kadıköy to Tavşantepe,17,4,1141,8,100.0
+2024-09-04,Bostancı,M4,Kadıköy to Tavşantepe,18,5,1371,9,100.0
+2024-09-04,Bostancı,M4,Tavşantepe to Kadıköy,7,5,1064,6,100.0
+2024-09-04,Bostancı,M4,Tavşantepe to Kadıköy,8,8,1286,5,100.0
+2024-09-04,Bostancı,M4,Tavşantepe to Kadıköy,17,4,1141,8,100.0
+2024-09-04,Bostancı,M4,Tavşantepe to Kadıköy,18,5,1371,9,100.0
+2024-09-04,Dudullu,M5,Samandıra Merkez to Üsküdar,7,5,1092,6,100.0
+2024-09-04,Dudullu,M5,Samandıra Merkez to Üsküdar,8,10,1460,5,100.0
+2024-09-04,Dudullu,M5,Samandıra Merkez to Üsküdar,16,3,1009,8,100.0
+2024-09-04,Dudullu,M5,Samandıra Merkez to Üsküdar,17,10,1792,8,100.0
+2024-09-04,Dudullu,M5,Samandıra Merkez to Üsküdar,18,25,3368,9,100.0
+2024-09-04,Dudullu,M5,Üsküdar to Samandıra Merkez,8,3,1460,5,199.9
+2024-09-04,Dudullu,M5,Üsküdar to Samandıra Merkez,17,1,1792,8,199.9
+2024-09-04,Dudullu,M5,Üsküdar to Samandıra Merkez,18,8,3368,9,199.9
+2024-09-04,Dudullu,M8,Bostancı to Parseller,7,8,1541,6,111.1
+2024-09-04,Dudullu,M8,Bostancı to Parseller,8,15,2142,5,111.1
+2024-09-04,Dudullu,M8,Bostancı to Parseller,17,1,990,8,111.1
+2024-09-04,Dudullu,M8,Bostancı to Parseller,18,3,1280,9,111.1
+2024-09-04,Dudullu,M8,Parseller to Bostancı,7,10,1541,6,100.0
+2024-09-04,Dudullu,M8,Parseller to Bostancı,8,17,2142,5,100.0
+2024-09-04,Dudullu,M8,Parseller to Bostancı,9,1,850,8,100.0
+2024-09-04,Dudullu,M8,Parseller to Bostancı,17,2,990,8,100.0
+2024-09-04,Dudullu,M8,Parseller to Bostancı,18,4,1280,9,100.0
+2024-09-04,Gayrettepe,M2,Hacıosman to Yenikapı,7,13,1849,6,100.0
+2024-09-04,Gayrettepe,M2,Hacıosman to Yenikapı,8,31,3651,6,100.0
+2024-09-04,Gayrettepe,M2,Hacıosman to Yenikapı,9,16,2157,6,100.0
+2024-09-04,Gayrettepe,M2,Hacıosman to Yenikapı,16,8,1630,9,100.0
+2024-09-04,Gayrettepe,M2,Hacıosman to Yenikapı,17,19,2756,9,100.0
+2024-09-04,Gayrettepe,M2,Hacıosman to Yenikapı,18,27,3554,9,100.0
+2024-09-04,Gayrettepe,M2,Yenikapı to Hacıosman,7,13,1849,6,100.0
+2024-09-04,Gayrettepe,M2,Yenikapı to Hacıosman,8,31,3651,6,100.0
+2024-09-04,Gayrettepe,M2,Yenikapı to Hacıosman,9,16,2157,6,100.0
+2024-09-04,Gayrettepe,M2,Yenikapı to Hacıosman,16,8,1630,9,100.0
+2024-09-04,Gayrettepe,M2,Yenikapı to Hacıosman,17,19,2756,9,100.0
+2024-09-04,Gayrettepe,M2,Yenikapı to Hacıosman,18,27,3554,9,100.0
+2024-09-04,Kozyatağı,M4,Kadıköy to Tavşantepe,7,8,1329,6,100.0
+2024-09-04,Kozyatağı,M4,Kadıköy to Tavşantepe,8,14,1868,5,100.0
+2024-09-04,Kozyatağı,M4,Kadıköy to Tavşantepe,9,3,1014,8,100.0
+2024-09-04,Kozyatağı,M4,Kadıköy to Tavşantepe,16,5,1273,8,100.0
+2024-09-04,Kozyatağı,M4,Kadıköy to Tavşantepe,17,15,2292,8,100.0
+2024-09-04,Kozyatağı,M4,Kadıköy to Tavşantepe,18,22,3035,9,100.0
+2024-09-04,Kozyatağı,M4,Tavşantepe to Kadıköy,7,8,1329,6,100.0
+2024-09-04,Kozyatağı,M4,Tavşantepe to Kadıköy,8,14,1868,5,100.0
+2024-09-04,Kozyatağı,M4,Tavşantepe to Kadıköy,9,3,1014,8,100.0
+2024-09-04,Kozyatağı,M4,Tavşantepe to Kadıköy,16,5,1273,8,100.0
+2024-09-04,Kozyatağı,M4,Tavşantepe to Kadıköy,17,15,2292,8,100.0
+2024-09-04,Kozyatağı,M4,Tavşantepe to Kadıköy,18,22,3035,9,100.0
+2024-09-04,Kozyatağı,M8,Bostancı to Parseller,8,3,823,5,106.0
+2024-09-04,Kozyatağı,M8,Bostancı to Parseller,17,5,1284,8,106.0
+2024-09-04,Kozyatağı,M8,Bostancı to Parseller,18,8,1766,9,106.0
+2024-09-04,Kozyatağı,M8,Parseller to Bostancı,8,3,823,5,106.0
+2024-09-04,Kozyatağı,M8,Parseller to Bostancı,17,5,1284,8,106.0
+2024-09-04,Kozyatağı,M8,Parseller to Bostancı,18,8,1766,9,106.0
+2024-09-04,Levent,M2,Hacıosman to Yenikapı,7,12,3052,6,172.0
+2024-09-04,Levent,M2,Hacıosman to Yenikapı,8,20,4418,6,172.0
+2024-09-04,Levent,M2,Hacıosman to Yenikapı,9,10,2693,6,172.0
+2024-09-04,Levent,M2,Hacıosman to Yenikapı,16,12,3460,9,172.0
+2024-09-04,Levent,M2,Hacıosman to Yenikapı,17,27,6114,9,172.0
+2024-09-04,Levent,M2,Hacıosman to Yenikapı,18,37,7804,9,172.0
+2024-09-04,Levent,M2,Yenikapı to Hacıosman,7,25,3052,6,100.0
+2024-09-04,Levent,M2,Yenikapı to Hacıosman,8,39,4418,6,100.0
+2024-09-04,Levent,M2,Yenikapı to Hacıosman,9,21,2693,6,100.0
+2024-09-04,Levent,M2,Yenikapı to Hacıosman,16,26,3460,9,100.0
+2024-09-04,Levent,M2,Yenikapı to Hacıosman,17,53,6114,9,100.0
+2024-09-04,Levent,M2,Yenikapı to Hacıosman,18,70,7804,9,100.0
+2024-09-04,Mahmutbey,M3,Bakırköy Sahil to Kayaşehir Merkez,7,3,2852,6,340.0
+2024-09-04,Mahmutbey,M3,Bakırköy Sahil to Kayaşehir Merkez,8,3,2440,5,340.0
+2024-09-04,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,7,23,2852,6,100.0
+2024-09-04,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,8,20,2440,5,100.0
+2024-09-04,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,9,4,1159,8,100.0
+2024-09-04,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,16,1,895,8,100.0
+2024-09-04,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,17,6,1396,8,100.0
+2024-09-04,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,18,14,2268,9,100.0
+2024-09-04,Mahmutbey,M7,Mahmutbey to Yıldız,7,1,2235,6,340.0
+2024-09-04,Mahmutbey,M7,Mahmutbey to Yıldız,8,2,2177,5,340.0
+2024-09-04,Mahmutbey,M7,Mahmutbey to Yıldız,18,1,3078,9,340.0
+2024-09-04,Mahmutbey,M7,Yıldız to Mahmutbey,7,1,2235,6,340.0
+2024-09-04,Mahmutbey,M7,Yıldız to Mahmutbey,8,2,2177,5,340.0
+2024-09-04,Mahmutbey,M7,Yıldız to Mahmutbey,18,1,3078,9,340.0
+2024-09-04,Yenibosna,M9,Ataköy to Olimpiyat,7,5,1043,6,100.0
+2024-09-04,Yenibosna,M9,Ataköy to Olimpiyat,8,9,1357,5,100.0
+2024-09-04,Yenibosna,M9,Ataköy to Olimpiyat,18,1,990,9,100.0
+2024-09-04,Yenibosna,M9,Olimpiyat to Ataköy,7,5,1043,6,100.0
+2024-09-04,Yenibosna,M9,Olimpiyat to Ataköy,8,9,1357,5,100.0
+2024-09-04,Yenibosna,M9,Olimpiyat to Ataköy,18,1,990,9,100.0
+2024-09-04,Yenikapı,M2,Hacıosman to Yenikapı,7,4,5420,6,580.0
+2024-09-04,Yenikapı,M2,Hacıosman to Yenikapı,8,10,8997,6,580.0
+2024-09-04,Yenikapı,M2,Hacıosman to Yenikapı,9,4,5315,6,580.0
+2024-09-04,Yenikapı,M2,Yenikapı to Hacıosman,7,4,5420,6,580.0
+2024-09-04,Yenikapı,M2,Yenikapı to Hacıosman,8,10,8997,6,580.0
+2024-09-04,Yenikapı,M2,Yenikapı to Hacıosman,9,4,5315,6,580.0
+2024-09-04,İkitelli Sanayi,M3,Bakırköy Sahil to Kayaşehir Merkez,17,2,904,8,100.0
+2024-09-04,İkitelli Sanayi,M3,Bakırköy Sahil to Kayaşehir Merkez,18,11,1952,9,100.0
+2024-09-04,İkitelli Sanayi,M3,Kayaşehir Merkez to Bakırköy Sahil,17,2,904,8,100.0
+2024-09-04,İkitelli Sanayi,M3,Kayaşehir Merkez to Bakırköy Sahil,18,11,1952,9,100.0
+2024-09-04,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,7,40,4578,6,100.0
+2024-09-04,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,8,72,7719,6,100.0
+2024-09-04,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,9,42,4716,6,100.0
+2024-09-04,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,16,25,3361,9,100.0
+2024-09-04,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,17,35,4350,9,100.0
+2024-09-04,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,18,45,5351,9,100.0
+2024-09-04,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,7,40,4578,6,100.0
+2024-09-04,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,8,72,7719,6,100.0
+2024-09-04,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,9,42,4716,6,100.0
+2024-09-04,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,16,25,3361,9,100.0
+2024-09-04,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,17,35,4350,9,100.0
+2024-09-04,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,18,45,5351,9,100.0
+2024-09-04,Şişli-Mecidiyeköy,M7,Mahmutbey to Yıldız,16,1,2725,8,340.0
+2024-09-04,Şişli-Mecidiyeköy,M7,Mahmutbey to Yıldız,17,7,5002,8,340.0
+2024-09-04,Şişli-Mecidiyeköy,M7,Mahmutbey to Yıldız,18,12,7113,9,340.0
+2024-09-04,Şişli-Mecidiyeköy,M7,Yıldız to Mahmutbey,16,1,2725,8,340.0
+2024-09-04,Şişli-Mecidiyeköy,M7,Yıldız to Mahmutbey,17,7,5002,8,340.0
+2024-09-04,Şişli-Mecidiyeköy,M7,Yıldız to Mahmutbey,18,12,7113,9,340.0
+2024-09-05,Bostancı,M4,Kadıköy to Tavşantepe,7,5,1004,6,100.0
+2024-09-05,Bostancı,M4,Kadıköy to Tavşantepe,8,8,1235,5,100.0
+2024-09-05,Bostancı,M4,Kadıköy to Tavşantepe,17,3,1069,8,100.0
+2024-09-05,Bostancı,M4,Kadıköy to Tavşantepe,18,5,1330,9,100.0
+2024-09-05,Bostancı,M4,Tavşantepe to Kadıköy,7,5,1004,6,100.0
+2024-09-05,Bostancı,M4,Tavşantepe to Kadıköy,8,8,1235,5,100.0
+2024-09-05,Bostancı,M4,Tavşantepe to Kadıköy,17,3,1069,8,100.0
+2024-09-05,Bostancı,M4,Tavşantepe to Kadıköy,18,5,1330,9,100.0
+2024-09-05,Dudullu,M5,Samandıra Merkez to Üsküdar,7,4,993,6,100.0
+2024-09-05,Dudullu,M5,Samandıra Merkez to Üsküdar,8,10,1461,5,100.0
+2024-09-05,Dudullu,M5,Samandıra Merkez to Üsküdar,16,4,1118,8,100.0
+2024-09-05,Dudullu,M5,Samandıra Merkez to Üsküdar,17,11,1877,8,100.0
+2024-09-05,Dudullu,M5,Samandıra Merkez to Üsküdar,18,23,3184,9,100.0
+2024-09-05,Dudullu,M5,Üsküdar to Samandıra Merkez,8,3,1461,5,199.9
+2024-09-05,Dudullu,M5,Üsküdar to Samandıra Merkez,17,2,1877,8,199.9
+2024-09-05,Dudullu,M5,Üsküdar to Samandıra Merkez,18,7,3184,9,199.9
+2024-09-05,Dudullu,M8,Bostancı to Parseller,7,8,1503,6,111.1
+2024-09-05,Dudullu,M8,Bostancı to Parseller,8,15,2195,5,111.1
+2024-09-05,Dudullu,M8,Bostancı to Parseller,9,1,921,8,111.1
+2024-09-05,Dudullu,M8,Bostancı to Parseller,17,1,933,8,111.1
+2024-09-05,Dudullu,M8,Bostancı to Parseller,18,3,1329,9,111.1
+2024-09-05,Dudullu,M8,Parseller to Bostancı,7,10,1503,6,100.0
+2024-09-05,Dudullu,M8,Parseller to Bostancı,8,17,2195,5,100.0
+2024-09-05,Dudullu,M8,Parseller to Bostancı,9,2,921,8,100.0
+2024-09-05,Dudullu,M8,Parseller to Bostancı,17,2,933,8,100.0
+2024-09-05,Dudullu,M8,Parseller to Bostancı,18,5,1329,9,100.0
+2024-09-05,Gayrettepe,M2,Hacıosman to Yenikapı,7,12,1785,6,100.0
+2024-09-05,Gayrettepe,M2,Hacıosman to Yenikapı,8,30,3543,6,100.0
+2024-09-05,Gayrettepe,M2,Hacıosman to Yenikapı,9,15,2030,6,100.0
+2024-09-05,Gayrettepe,M2,Hacıosman to Yenikapı,16,7,1574,9,100.0
+2024-09-05,Gayrettepe,M2,Hacıosman to Yenikapı,17,20,2851,9,100.0
+2024-09-05,Gayrettepe,M2,Hacıosman to Yenikapı,18,25,3393,9,100.0
+2024-09-05,Gayrettepe,M2,Yenikapı to Hacıosman,7,12,1785,6,100.0
+2024-09-05,Gayrettepe,M2,Yenikapı to Hacıosman,8,30,3543,6,100.0
+2024-09-05,Gayrettepe,M2,Yenikapı to Hacıosman,9,15,2030,6,100.0
+2024-09-05,Gayrettepe,M2,Yenikapı to Hacıosman,16,7,1574,9,100.0
+2024-09-05,Gayrettepe,M2,Yenikapı to Hacıosman,17,20,2851,9,100.0
+2024-09-05,Gayrettepe,M2,Yenikapı to Hacıosman,18,25,3393,9,100.0
+2024-09-05,Kozyatağı,M4,Kadıköy to Tavşantepe,7,8,1358,6,100.0
+2024-09-05,Kozyatağı,M4,Kadıköy to Tavşantepe,8,14,1856,5,100.0
+2024-09-05,Kozyatağı,M4,Kadıköy to Tavşantepe,9,3,1072,8,100.0
+2024-09-05,Kozyatağı,M4,Kadıköy to Tavşantepe,16,6,1386,8,100.0
+2024-09-05,Kozyatağı,M4,Kadıköy to Tavşantepe,17,14,2139,8,100.0
+2024-09-05,Kozyatağı,M4,Kadıköy to Tavşantepe,18,22,3065,9,100.0
+2024-09-05,Kozyatağı,M4,Tavşantepe to Kadıköy,7,8,1358,6,100.0
+2024-09-05,Kozyatağı,M4,Tavşantepe to Kadıköy,8,14,1856,5,100.0
+2024-09-05,Kozyatağı,M4,Tavşantepe to Kadıköy,9,3,1072,8,100.0
+2024-09-05,Kozyatağı,M4,Tavşantepe to Kadıköy,16,6,1386,8,100.0
+2024-09-05,Kozyatağı,M4,Tavşantepe to Kadıköy,17,14,2139,8,100.0
+2024-09-05,Kozyatağı,M4,Tavşantepe to Kadıköy,18,22,3065,9,100.0
+2024-09-05,Kozyatağı,M8,Bostancı to Parseller,8,3,809,5,106.0
+2024-09-05,Kozyatağı,M8,Bostancı to Parseller,17,4,1256,8,106.0
+2024-09-05,Kozyatağı,M8,Bostancı to Parseller,18,8,1787,9,106.0
+2024-09-05,Kozyatağı,M8,Parseller to Bostancı,8,3,809,5,106.0
+2024-09-05,Kozyatağı,M8,Parseller to Bostancı,17,4,1256,8,106.0
+2024-09-05,Kozyatağı,M8,Parseller to Bostancı,18,8,1787,9,106.0
+2024-09-05,Levent,M2,Hacıosman to Yenikapı,7,12,2963,6,172.0
+2024-09-05,Levent,M2,Hacıosman to Yenikapı,8,20,4349,6,172.0
+2024-09-05,Levent,M2,Hacıosman to Yenikapı,9,9,2540,6,172.0
+2024-09-05,Levent,M2,Hacıosman to Yenikapı,16,13,3670,9,172.0
+2024-09-05,Levent,M2,Hacıosman to Yenikapı,17,28,6284,9,172.0
+2024-09-05,Levent,M2,Hacıosman to Yenikapı,18,38,7939,9,172.0
+2024-09-05,Levent,M2,Yenikapı to Hacıosman,7,24,2963,6,100.0
+2024-09-05,Levent,M2,Yenikapı to Hacıosman,8,38,4349,6,100.0
+2024-09-05,Levent,M2,Yenikapı to Hacıosman,9,20,2540,6,100.0
+2024-09-05,Levent,M2,Yenikapı to Hacıosman,16,28,3670,9,100.0
+2024-09-05,Levent,M2,Yenikapı to Hacıosman,17,54,6284,9,100.0
+2024-09-05,Levent,M2,Yenikapı to Hacıosman,18,71,7939,9,100.0
+2024-09-05,Mahmutbey,M3,Bakırköy Sahil to Kayaşehir Merkez,7,3,2747,6,340.0
+2024-09-05,Mahmutbey,M3,Bakırköy Sahil to Kayaşehir Merkez,8,3,2549,5,340.0
+2024-09-05,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,7,22,2747,6,100.0
+2024-09-05,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,8,21,2549,5,100.0
+2024-09-05,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,9,4,1183,8,100.0
+2024-09-05,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,16,2,981,8,100.0
+2024-09-05,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,17,7,1496,8,100.0
+2024-09-05,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,18,14,2210,9,100.0
+2024-09-05,Mahmutbey,M7,Mahmutbey to Yıldız,7,1,2250,6,340.0
+2024-09-05,Mahmutbey,M7,Mahmutbey to Yıldız,8,2,2148,5,340.0
+2024-09-05,Mahmutbey,M7,Yıldız to Mahmutbey,7,1,2250,6,340.0
+2024-09-05,Mahmutbey,M7,Yıldız to Mahmutbey,8,2,2148,5,340.0
+2024-09-05,Yenibosna,M9,Ataköy to Olimpiyat,7,6,1142,6,100.0
+2024-09-05,Yenibosna,M9,Ataköy to Olimpiyat,8,6,1013,5,100.0
+2024-09-05,Yenibosna,M9,Ataköy to Olimpiyat,18,1,963,9,100.0
+2024-09-05,Yenibosna,M9,Olimpiyat to Ataköy,7,6,1142,6,100.0
+2024-09-05,Yenibosna,M9,Olimpiyat to Ataköy,8,6,1013,5,100.0
+2024-09-05,Yenibosna,M9,Olimpiyat to Ataköy,18,1,963,9,100.0
+2024-09-05,Yenikapı,M2,Hacıosman to Yenikapı,7,4,5363,6,580.0
+2024-09-05,Yenikapı,M2,Hacıosman to Yenikapı,8,10,9033,6,580.0
+2024-09-05,Yenikapı,M2,Hacıosman to Yenikapı,9,4,5549,6,580.0
+2024-09-05,Yenikapı,M2,Yenikapı to Hacıosman,7,4,5363,6,580.0
+2024-09-05,Yenikapı,M2,Yenikapı to Hacıosman,8,10,9033,6,580.0
+2024-09-05,Yenikapı,M2,Yenikapı to Hacıosman,9,4,5549,6,580.0
+2024-09-05,İkitelli Sanayi,M3,Bakırköy Sahil to Kayaşehir Merkez,17,2,965,8,100.0
+2024-09-05,İkitelli Sanayi,M3,Bakırköy Sahil to Kayaşehir Merkez,18,9,1792,9,100.0
+2024-09-05,İkitelli Sanayi,M3,Kayaşehir Merkez to Bakırköy Sahil,17,2,965,8,100.0
+2024-09-05,İkitelli Sanayi,M3,Kayaşehir Merkez to Bakırköy Sahil,18,9,1792,9,100.0
+2024-09-05,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,7,40,4582,6,100.0
+2024-09-05,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,8,70,7527,6,100.0
+2024-09-05,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,9,43,4827,6,100.0
+2024-09-05,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,16,27,3524,9,100.0
+2024-09-05,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,17,38,4614,9,100.0
+2024-09-05,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,18,45,5344,9,100.0
+2024-09-05,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,7,40,4582,6,100.0
+2024-09-05,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,8,70,7527,6,100.0
+2024-09-05,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,9,43,4827,6,100.0
+2024-09-05,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,16,27,3524,9,100.0
+2024-09-05,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,17,38,4614,9,100.0
+2024-09-05,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,18,45,5344,9,100.0
+2024-09-05,Şişli-Mecidiyeköy,M7,Mahmutbey to Yıldız,16,1,2754,8,340.0
+2024-09-05,Şişli-Mecidiyeköy,M7,Mahmutbey to Yıldız,17,8,5206,8,340.0
+2024-09-05,Şişli-Mecidiyeköy,M7,Mahmutbey to Yıldız,18,13,7151,9,340.0
+2024-09-05,Şişli-Mecidiyeköy,M7,Yıldız to Mahmutbey,16,1,2754,8,340.0
+2024-09-05,Şişli-Mecidiyeköy,M7,Yıldız to Mahmutbey,17,8,5206,8,340.0
+2024-09-05,Şişli-Mecidiyeköy,M7,Yıldız to Mahmutbey,18,13,7151,9,340.0
+2024-09-06,Bostancı,M4,Kadıköy to Tavşantepe,7,4,970,6,100.0
+2024-09-06,Bostancı,M4,Kadıköy to Tavşantepe,8,7,1172,5,100.0
+2024-09-06,Bostancı,M4,Kadıköy to Tavşantepe,17,4,1123,8,100.0
+2024-09-06,Bostancı,M4,Kadıköy to Tavşantepe,18,5,1396,9,100.0
+2024-09-06,Bostancı,M4,Tavşantepe to Kadıköy,7,4,970,6,100.0
+2024-09-06,Bostancı,M4,Tavşantepe to Kadıköy,8,7,1172,5,100.0
+2024-09-06,Bostancı,M4,Tavşantepe to Kadıköy,17,4,1123,8,100.0
+2024-09-06,Bostancı,M4,Tavşantepe to Kadıköy,18,5,1396,9,100.0
+2024-09-06,Dudullu,M5,Samandıra Merkez to Üsküdar,7,4,954,6,100.0
+2024-09-06,Dudullu,M5,Samandıra Merkez to Üsküdar,8,9,1393,5,100.0
+2024-09-06,Dudullu,M5,Samandıra Merkez to Üsküdar,9,1,841,8,100.0
+2024-09-06,Dudullu,M5,Samandıra Merkez to Üsküdar,16,4,1106,8,100.0
+2024-09-06,Dudullu,M5,Samandıra Merkez to Üsküdar,17,12,1933,8,100.0
+2024-09-06,Dudullu,M5,Samandıra Merkez to Üsküdar,18,24,3217,9,100.0
+2024-09-06,Dudullu,M5,Üsküdar to Samandıra Merkez,8,2,1393,5,199.9
+2024-09-06,Dudullu,M5,Üsküdar to Samandıra Merkez,17,2,1933,8,199.9
+2024-09-06,Dudullu,M5,Üsküdar to Samandıra Merkez,18,8,3217,9,199.9
+2024-09-06,Dudullu,M8,Bostancı to Parseller,7,8,1486,6,111.1
+2024-09-06,Dudullu,M8,Bostancı to Parseller,8,15,2158,5,111.1
+2024-09-06,Dudullu,M8,Bostancı to Parseller,17,2,1046,8,111.1
+2024-09-06,Dudullu,M8,Bostancı to Parseller,18,3,1235,9,111.1
+2024-09-06,Dudullu,M8,Parseller to Bostancı,7,9,1486,6,100.0
+2024-09-06,Dudullu,M8,Parseller to Bostancı,8,17,2158,5,100.0
+2024-09-06,Dudullu,M8,Parseller to Bostancı,9,1,887,8,100.0
+2024-09-06,Dudullu,M8,Parseller to Bostancı,17,3,1046,8,100.0
+2024-09-06,Dudullu,M8,Parseller to Bostancı,18,4,1235,9,100.0
+2024-09-06,Gayrettepe,M2,Hacıosman to Yenikapı,7,12,1706,6,100.0
+2024-09-06,Gayrettepe,M2,Hacıosman to Yenikapı,8,27,3264,6,100.0
+2024-09-06,Gayrettepe,M2,Hacıosman to Yenikapı,9,12,1718,6,100.0
+2024-09-06,Gayrettepe,M2,Hacıosman to Yenikapı,16,9,1724,9,100.0
+2024-09-06,Gayrettepe,M2,Hacıosman to Yenikapı,17,18,2693,9,100.0
+2024-09-06,Gayrettepe,M2,Hacıosman to Yenikapı,18,25,3365,9,100.0
+2024-09-06,Gayrettepe,M2,Yenikapı to Hacıosman,7,12,1706,6,100.0
+2024-09-06,Gayrettepe,M2,Yenikapı to Hacıosman,8,27,3264,6,100.0
+2024-09-06,Gayrettepe,M2,Yenikapı to Hacıosman,9,12,1718,6,100.0
+2024-09-06,Gayrettepe,M2,Yenikapı to Hacıosman,16,9,1724,9,100.0
+2024-09-06,Gayrettepe,M2,Yenikapı to Hacıosman,17,18,2693,9,100.0
+2024-09-06,Gayrettepe,M2,Yenikapı to Hacıosman,18,25,3365,9,100.0
+2024-09-06,Kozyatağı,M4,Kadıköy to Tavşantepe,7,8,1314,6,100.0
+2024-09-06,Kozyatağı,M4,Kadıköy to Tavşantepe,8,12,1696,5,100.0
+2024-09-06,Kozyatağı,M4,Kadıköy to Tavşantepe,9,2,1000,8,100.0
+2024-09-06,Kozyatağı,M4,Kadıköy to Tavşantepe,16,6,1320,8,100.0
+2024-09-06,Kozyatağı,M4,Kadıköy to Tavşantepe,17,15,2215,8,100.0
+2024-09-06,Kozyatağı,M4,Kadıköy to Tavşantepe,18,22,3011,9,100.0
+2024-09-06,Kozyatağı,M4,Tavşantepe to Kadıköy,7,8,1314,6,100.0
+2024-09-06,Kozyatağı,M4,Tavşantepe to Kadıköy,8,12,1696,5,100.0
+2024-09-06,Kozyatağı,M4,Tavşantepe to Kadıköy,9,2,1000,8,100.0
+2024-09-06,Kozyatağı,M4,Tavşantepe to Kadıköy,16,6,1320,8,100.0
+2024-09-06,Kozyatağı,M4,Tavşantepe to Kadıköy,17,15,2215,8,100.0
+2024-09-06,Kozyatağı,M4,Tavşantepe to Kadıköy,18,22,3011,9,100.0
+2024-09-06,Kozyatağı,M8,Bostancı to Parseller,8,4,857,5,106.0
+2024-09-06,Kozyatağı,M8,Bostancı to Parseller,17,5,1291,8,106.0
+2024-09-06,Kozyatağı,M8,Bostancı to Parseller,18,8,1705,9,106.0
+2024-09-06,Kozyatağı,M8,Parseller to Bostancı,8,4,857,5,106.0
+2024-09-06,Kozyatağı,M8,Parseller to Bostancı,17,5,1291,8,106.0
+2024-09-06,Kozyatağı,M8,Parseller to Bostancı,18,8,1705,9,106.0
+2024-09-06,Levent,M2,Hacıosman to Yenikapı,7,12,2937,6,172.0
+2024-09-06,Levent,M2,Hacıosman to Yenikapı,8,19,4205,6,172.0
+2024-09-06,Levent,M2,Hacıosman to Yenikapı,9,10,2589,6,172.0
+2024-09-06,Levent,M2,Hacıosman to Yenikapı,16,13,3729,9,172.0
+2024-09-06,Levent,M2,Hacıosman to Yenikapı,17,26,5965,9,172.0
+2024-09-06,Levent,M2,Hacıosman to Yenikapı,18,33,7196,9,172.0
+2024-09-06,Levent,M2,Yenikapı to Hacıosman,7,24,2937,6,100.0
+2024-09-06,Levent,M2,Yenikapı to Hacıosman,8,37,4205,6,100.0
+2024-09-06,Levent,M2,Yenikapı to Hacıosman,9,20,2589,6,100.0
+2024-09-06,Levent,M2,Yenikapı to Hacıosman,16,29,3729,9,100.0
+2024-09-06,Levent,M2,Yenikapı to Hacıosman,17,51,5965,9,100.0
+2024-09-06,Levent,M2,Yenikapı to Hacıosman,18,63,7196,9,100.0
+2024-09-06,Mahmutbey,M3,Bakırköy Sahil to Kayaşehir Merkez,7,2,2672,6,340.0
+2024-09-06,Mahmutbey,M3,Bakırköy Sahil to Kayaşehir Merkez,8,3,2468,5,340.0
+2024-09-06,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,7,21,2672,6,100.0
+2024-09-06,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,8,20,2468,5,100.0
+2024-09-06,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,9,4,1159,8,100.0
+2024-09-06,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,16,2,967,8,100.0
+2024-09-06,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,17,7,1408,8,100.0
+2024-09-06,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,18,13,2200,9,100.0
+2024-09-06,Mahmutbey,M7,Mahmutbey to Yıldız,7,1,2132,6,340.0
+2024-09-06,Mahmutbey,M7,Mahmutbey to Yıldız,8,2,2142,5,340.0
+2024-09-06,Mahmutbey,M7,Yıldız to Mahmutbey,7,1,2132,6,340.0
+2024-09-06,Mahmutbey,M7,Yıldız to Mahmutbey,8,2,2142,5,340.0
+2024-09-06,Yenibosna,M9,Ataköy to Olimpiyat,7,5,1016,6,100.0
+2024-09-06,Yenibosna,M9,Ataköy to Olimpiyat,8,8,1257,5,100.0
+2024-09-06,Yenibosna,M9,Ataköy to Olimpiyat,18,1,974,9,107.0
+2024-09-06,Yenibosna,M9,Olimpiyat to Ataköy,7,5,1016,6,100.0
+2024-09-06,Yenibosna,M9,Olimpiyat to Ataköy,8,8,1257,5,100.0
+2024-09-06,Yenibosna,M9,Olimpiyat to Ataköy,18,1,974,9,100.0
+2024-09-06,Yenikapı,M2,Hacıosman to Yenikapı,7,3,5152,6,580.0
+2024-09-06,Yenikapı,M2,Hacıosman to Yenikapı,8,9,8194,6,580.0
+2024-09-06,Yenikapı,M2,Hacıosman to Yenikapı,9,3,4938,6,580.0
+2024-09-06,Yenikapı,M2,Yenikapı to Hacıosman,7,3,5152,6,580.0
+2024-09-06,Yenikapı,M2,Yenikapı to Hacıosman,8,9,8194,6,580.0
+2024-09-06,Yenikapı,M2,Yenikapı to Hacıosman,9,3,4938,6,580.0
+2024-09-06,İkitelli Sanayi,M3,Bakırköy Sahil to Kayaşehir Merkez,17,2,934,8,100.0
+2024-09-06,İkitelli Sanayi,M3,Bakırköy Sahil to Kayaşehir Merkez,18,9,1787,9,100.0
+2024-09-06,İkitelli Sanayi,M3,Kayaşehir Merkez to Bakırköy Sahil,17,2,934,8,100.0
+2024-09-06,İkitelli Sanayi,M3,Kayaşehir Merkez to Bakırköy Sahil,18,9,1787,9,100.0
+2024-09-06,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,7,40,4527,6,100.0
+2024-09-06,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,8,68,7392,6,100.0
+2024-09-06,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,9,39,4440,6,100.0
+2024-09-06,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,16,29,3708,9,100.0
+2024-09-06,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,17,39,4768,9,100.0
+2024-09-06,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,18,48,5646,9,100.0
+2024-09-06,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,7,40,4527,6,100.0
+2024-09-06,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,8,68,7392,6,100.0
+2024-09-06,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,9,39,4440,6,100.0
+2024-09-06,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,16,29,3708,9,100.0
+2024-09-06,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,17,39,4768,9,100.0
+2024-09-06,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,18,48,5646,9,100.0
+2024-09-06,Şişli-Mecidiyeköy,M7,Mahmutbey to Yıldız,16,1,2886,8,340.0
+2024-09-06,Şişli-Mecidiyeköy,M7,Mahmutbey to Yıldız,17,7,4952,8,340.0
+2024-09-06,Şişli-Mecidiyeköy,M7,Mahmutbey to Yıldız,18,11,6798,9,340.0
+2024-09-06,Şişli-Mecidiyeköy,M7,Yıldız to Mahmutbey,16,1,2886,8,340.0
+2024-09-06,Şişli-Mecidiyeköy,M7,Yıldız to Mahmutbey,17,7,4952,8,340.0
+2024-09-06,Şişli-Mecidiyeköy,M7,Yıldız to Mahmutbey,18,11,6798,9,340.0
+2024-09-07,Dudullu,M5,Samandıra Merkez to Üsküdar,8,2,640,5,100.0
+2024-09-07,Dudullu,M5,Samandıra Merkez to Üsküdar,16,4,1174,8,100.0
+2024-09-07,Dudullu,M5,Samandıra Merkez to Üsküdar,17,5,1293,8,100.0
+2024-09-07,Dudullu,M5,Samandıra Merkez to Üsküdar,18,5,1354,9,100.0
+2024-09-07,Dudullu,M8,Bostancı to Parseller,8,4,935,5,111.1
+2024-09-07,Dudullu,M8,Parseller to Bostancı,7,1,613,6,100.0
+2024-09-07,Dudullu,M8,Parseller to Bostancı,8,5,935,5,100.0
+2024-09-07,Dudullu,M8,Parseller to Bostancı,17,1,844,8,100.0
+2024-09-07,Gayrettepe,M2,Hacıosman to Yenikapı,8,3,817,6,100.0
+2024-09-07,Gayrettepe,M2,Hacıosman to Yenikapı,9,1,690,6,100.0
+2024-09-07,Gayrettepe,M2,Hacıosman to Yenikapı,16,7,1515,9,100.0
+2024-09-07,Gayrettepe,M2,Hacıosman to Yenikapı,17,6,1426,9,100.0
+2024-09-07,Gayrettepe,M2,Hacıosman to Yenikapı,18,7,1502,9,100.0
+2024-09-07,Gayrettepe,M2,Yenikapı to Hacıosman,8,3,817,6,100.0
+2024-09-07,Gayrettepe,M2,Yenikapı to Hacıosman,9,1,690,6,100.0
+2024-09-07,Gayrettepe,M2,Yenikapı to Hacıosman,16,7,1515,9,100.0
+2024-09-07,Gayrettepe,M2,Yenikapı to Hacıosman,17,6,1426,9,100.0
+2024-09-07,Gayrettepe,M2,Yenikapı to Hacıosman,18,7,1502,9,100.0
+2024-09-07,Kozyatağı,M4,Kadıköy to Tavşantepe,8,1,565,5,100.0
+2024-09-07,Kozyatağı,M4,Kadıköy to Tavşantepe,16,4,1174,8,100.0
+2024-09-07,Kozyatağı,M4,Kadıköy to Tavşantepe,17,4,1176,8,100.0
+2024-09-07,Kozyatağı,M4,Kadıköy to Tavşantepe,18,2,1084,9,100.0
+2024-09-07,Kozyatağı,M4,Tavşantepe to Kadıköy,8,1,565,5,100.0
+2024-09-07,Kozyatağı,M4,Tavşantepe to Kadıköy,16,4,1174,8,100.0
+2024-09-07,Kozyatağı,M4,Tavşantepe to Kadıköy,17,4,1176,8,100.0
+2024-09-07,Kozyatağı,M4,Tavşantepe to Kadıköy,18,2,1084,9,100.0
+2024-09-07,Levent,M2,Hacıosman to Yenikapı,7,4,1555,6,172.0
+2024-09-07,Levent,M2,Hacıosman to Yenikapı,8,6,1984,6,172.0
+2024-09-07,Levent,M2,Hacıosman to Yenikapı,9,4,1672,6,172.0
+2024-09-07,Levent,M2,Hacıosman to Yenikapı,16,9,3088,9,172.0
+2024-09-07,Levent,M2,Hacıosman to Yenikapı,17,10,3249,9,172.0
+2024-09-07,Levent,M2,Hacıosman to Yenikapı,18,10,3183,9,172.0
+2024-09-07,Levent,M2,Yenikapı to Hacıosman,7,10,1555,6,100.0
+2024-09-07,Levent,M2,Yenikapı to Hacıosman,8,14,1984,6,100.0
+2024-09-07,Levent,M2,Yenikapı to Hacıosman,9,11,1672,6,100.0
+2024-09-07,Levent,M2,Yenikapı to Hacıosman,16,22,3088,9,100.0
+2024-09-07,Levent,M2,Yenikapı to Hacıosman,17,24,3249,9,100.0
+2024-09-07,Levent,M2,Yenikapı to Hacıosman,18,23,3183,9,100.0
+2024-09-07,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,7,6,1267,6,114.5
+2024-09-07,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,8,10,1402,5,100.0
+2024-09-07,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,16,2,997,8,100.0
+2024-09-07,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,17,3,1061,8,100.0
+2024-09-07,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,18,3,1106,9,100.0
+2024-09-07,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,7,15,2048,6,100.0
+2024-09-07,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,8,24,2927,6,100.0
+2024-09-07,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,9,20,2591,6,100.0
+2024-09-07,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,16,28,3612,9,100.0
+2024-09-07,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,17,29,3757,9,100.0
+2024-09-07,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,18,29,3720,9,100.0
+2024-09-07,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,7,15,2048,6,100.0
+2024-09-07,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,8,24,2927,6,100.0
+2024-09-07,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,9,20,2591,6,100.0
+2024-09-07,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,16,28,3612,9,100.0
+2024-09-07,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,17,29,3757,9,100.0
+2024-09-07,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,18,29,3720,9,100.0
+2024-09-07,Şişli-Mecidiyeköy,M7,Mahmutbey to Yıldız,17,1,2796,8,340.0
+2024-09-07,Şişli-Mecidiyeköy,M7,Yıldız to Mahmutbey,17,1,2796,8,340.0
+2024-09-08,Dudullu,M5,Samandıra Merkez to Üsküdar,17,2,910,8,100.0
+2024-09-08,Gayrettepe,M2,Hacıosman to Yenikapı,16,1,972,9,100.0
+2024-09-08,Gayrettepe,M2,Hacıosman to Yenikapı,17,2,1050,9,100.0
+2024-09-08,Gayrettepe,M2,Hacıosman to Yenikapı,18,2,1034,9,100.0
+2024-09-08,Gayrettepe,M2,Yenikapı to Hacıosman,16,1,972,9,100.0
+2024-09-08,Gayrettepe,M2,Yenikapı to Hacıosman,17,2,1050,9,100.0
+2024-09-08,Gayrettepe,M2,Yenikapı to Hacıosman,18,2,1034,9,100.0
+2024-09-08,Levent,M2,Hacıosman to Yenikapı,16,4,2218,9,172.0
+2024-09-08,Levent,M2,Hacıosman to Yenikapı,17,5,2400,9,172.0
+2024-09-08,Levent,M2,Hacıosman to Yenikapı,18,6,2412,9,172.0
+2024-09-08,Levent,M2,Yenikapı to Hacıosman,7,2,771,6,100.0
+2024-09-08,Levent,M2,Yenikapı to Hacıosman,8,3,809,6,100.0
+2024-09-08,Levent,M2,Yenikapı to Hacıosman,9,3,884,6,100.0
+2024-09-08,Levent,M2,Yenikapı to Hacıosman,16,14,2218,9,100.0
+2024-09-08,Levent,M2,Yenikapı to Hacıosman,17,15,2400,9,100.0
+2024-09-08,Levent,M2,Yenikapı to Hacıosman,18,16,2412,9,100.0
+2024-09-08,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,7,5,1094,6,100.0
+2024-09-08,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,8,6,1132,6,100.0
+2024-09-08,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,9,8,1304,6,100.0
+2024-09-08,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,16,20,2871,9,100.0
+2024-09-08,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,17,21,2951,9,100.0
+2024-09-08,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,18,19,2751,9,100.0
+2024-09-08,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,7,5,1094,6,100.0
+2024-09-08,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,8,6,1132,6,100.0
+2024-09-08,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,9,8,1304,6,100.0
+2024-09-08,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,16,20,2871,9,100.0
+2024-09-08,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,17,21,2951,9,100.0
+2024-09-08,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,18,19,2751,9,100.0
+2024-09-09,Bostancı,M4,Kadıköy to Tavşantepe,7,7,1300,6,100.0
+2024-09-09,Bostancı,M4,Kadıköy to Tavşantepe,8,13,1721,5,100.0
+2024-09-09,Bostancı,M4,Kadıköy to Tavşantepe,9,3,1016,8,100.0
+2024-09-09,Bostancı,M4,Tavşantepe to Kadıköy,7,7,1300,6,100.0
+2024-09-09,Bostancı,M4,Tavşantepe to Kadıköy,8,13,1721,5,100.0
+2024-09-09,Bostancı,M4,Tavşantepe to Kadıköy,9,3,1016,8,100.0
+2024-09-09,Dudullu,M5,Samandıra Merkez to Üsküdar,7,8,1377,6,100.0
+2024-09-09,Dudullu,M5,Samandıra Merkez to Üsküdar,8,16,2022,5,100.0
+2024-09-09,Dudullu,M5,Samandıra Merkez to Üsküdar,9,6,1388,8,100.0
+2024-09-09,Dudullu,M5,Üsküdar to Samandıra Merkez,7,1,1377,6,199.9
+2024-09-09,Dudullu,M5,Üsküdar to Samandıra Merkez,8,6,2022,5,199.9
+2024-09-09,Dudullu,M8,Bostancı to Parseller,7,11,1855,6,111.1
+2024-09-09,Dudullu,M8,Bostancı to Parseller,8,22,2920,5,111.1
+2024-09-09,Dudullu,M8,Bostancı to Parseller,9,5,1427,8,111.1
+2024-09-09,Dudullu,M8,Parseller to Bostancı,7,13,1855,6,100.0
+2024-09-09,Dudullu,M8,Parseller to Bostancı,8,25,2920,5,100.0
+2024-09-09,Dudullu,M8,Parseller to Bostancı,9,7,1427,8,100.0
+2024-09-09,Gayrettepe,M2,Hacıosman to Yenikapı,7,14,1964,6,100.0
+2024-09-09,Gayrettepe,M2,Hacıosman to Yenikapı,8,33,3829,6,100.0
+2024-09-09,Gayrettepe,M2,Hacıosman to Yenikapı,9,18,2340,6,100.0
+2024-09-09,Gayrettepe,M2,Yenikapı to Hacıosman,7,14,1964,6,100.0
+2024-09-09,Gayrettepe,M2,Yenikapı to Hacıosman,8,33,3829,6,100.0
+2024-09-09,Gayrettepe,M2,Yenikapı to Hacıosman,9,18,2340,6,100.0
+2024-09-09,Kozyatağı,M4,Kadıköy to Tavşantepe,7,11,1664,6,100.0
+2024-09-09,Kozyatağı,M4,Kadıköy to Tavşantepe,8,20,2435,5,100.0
+2024-09-09,Kozyatağı,M4,Kadıköy to Tavşantepe,9,10,1732,8,100.0
+2024-09-09,Kozyatağı,M4,Tavşantepe to Kadıköy,7,11,1664,6,100.0
+2024-09-09,Kozyatağı,M4,Tavşantepe to Kadıköy,8,20,2435,5,100.0
+2024-09-09,Kozyatağı,M4,Tavşantepe to Kadıköy,9,10,1732,8,100.0
+2024-09-09,Kozyatağı,M8,Bostancı to Parseller,7,1,689,6,106.0
+2024-09-09,Kozyatağı,M8,Bostancı to Parseller,8,5,967,5,106.0
+2024-09-09,Kozyatağı,M8,Parseller to Bostancı,7,1,689,6,106.0
+2024-09-09,Kozyatağı,M8,Parseller to Bostancı,8,5,967,5,106.0
+2024-09-09,Levent,M2,Hacıosman to Yenikapı,7,14,3300,6,172.0
+2024-09-09,Levent,M2,Hacıosman to Yenikapı,8,23,4980,6,172.0
+2024-09-09,Levent,M2,Hacıosman to Yenikapı,9,15,3612,6,172.0
+2024-09-09,Levent,M2,Yenikapı to Hacıosman,7,27,3300,6,100.0
+2024-09-09,Levent,M2,Yenikapı to Hacıosman,8,44,4980,6,100.0
+2024-09-09,Levent,M2,Yenikapı to Hacıosman,9,31,3612,6,100.0
+2024-09-09,Mahmutbey,M3,Bakırköy Sahil to Kayaşehir Merkez,7,4,3186,6,340.0
+2024-09-09,Mahmutbey,M3,Bakırköy Sahil to Kayaşehir Merkez,8,4,2951,5,340.0
+2024-09-09,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,7,26,3186,6,100.0
+2024-09-09,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,8,25,2951,5,100.0
+2024-09-09,Mahmutbey,M3,Kayaşehir Merkez to Bakırköy Sahil,9,10,1735,8,100.0
+2024-09-09,Mahmutbey,M7,Mahmutbey to Yıldız,7,2,2490,6,340.0
+2024-09-09,Mahmutbey,M7,Mahmutbey to Yıldız,8,3,2500,5,340.0
+2024-09-09,Mahmutbey,M7,Yıldız to Mahmutbey,7,2,2490,6,340.0
+2024-09-09,Mahmutbey,M7,Yıldız to Mahmutbey,8,3,2500,5,340.0
+2024-09-09,Yenibosna,M9,Ataköy to Olimpiyat,7,6,1197,6,100.0
+2024-09-09,Yenibosna,M9,Ataköy to Olimpiyat,8,10,1444,5,100.0
+2024-09-09,Yenibosna,M9,Olimpiyat to Ataköy,7,6,1197,6,100.0
+2024-09-09,Yenibosna,M9,Olimpiyat to Ataköy,8,10,1444,5,100.0
+2024-09-09,Yenikapı,M2,Hacıosman to Yenikapı,7,5,5935,6,580.0
+2024-09-09,Yenikapı,M2,Hacıosman to Yenikapı,8,11,9608,6,580.0
+2024-09-09,Yenikapı,M2,Hacıosman to Yenikapı,9,5,5985,6,580.0
+2024-09-09,Yenikapı,M2,Yenikapı to Hacıosman,7,5,5935,6,580.0
+2024-09-09,Yenikapı,M2,Yenikapı to Hacıosman,8,11,9608,6,580.0
+2024-09-09,Yenikapı,M2,Yenikapı to Hacıosman,9,5,5985,6,580.0
+2024-09-09,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,7,45,5047,6,100.0
+2024-09-09,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,8,84,8950,6,100.0
+2024-09-09,Şişli-Mecidiyeköy,M2,Hacıosman to Yenikapı,9,56,6170,6,100.0
+2024-09-09,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,7,45,5047,6,100.0
+2024-09-09,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,8,84,8950,6,100.0
+2024-09-09,Şişli-Mecidiyeköy,M2,Yenikapı to Hacıosman,9,56,6170,6,100.0

@@ -1,0 +1,162 @@
+Line,Station
+M1A,Yenikapı
+M1A,Aksaray
+M1A,Emniyet-Fatih
+M1A,Topkapı Ulubatlı
+M1A,Bayrampaşa-Maltepe
+M1A,Sağmalcılar
+M1A,Kocatepe
+M1A,Otogar
+M1A,Terazidere
+M1A,Davutpaşa – YTÜ
+M1A,Merter
+M1A,Zeytinburnu
+M1A,Bakırköy-İncirli
+M1A,Bahçelievler
+M1A,Ataköy-Şirinevler
+M1A,Yenibosna
+M1A,DTM – İstanbul Fuar Merkezi
+M1A,Atatürk Havalimanı
+M1B,Kirazlı-Bağcılar
+M1B,Bağcılar Meydan
+M1B,Üçyüzlü
+M1B,Menderes
+M1B,Esenler
+M1B,Otogar
+M1B,Kocatepe
+M1B,Sağmalcılar
+M1B,Bayrampaşa-Maltepe
+M1B,Topkapı-Ulubatlı
+M1B,Emniyet-Fatih
+M1B,Aksaray
+M1B,Yenikapı
+M2,Hacıosman
+M2,Darüşşafaka
+M2,Atatürk Oto Sanayi
+M2,Ayazağa-İTÜ
+M2,Seyrantepe
+M2,Sanayi Mahallesi
+M2,4.Levent
+M2,Levent
+M2,Gayrettepe
+M2,Şişli-Mecidiyeköy
+M2,Osmanbey
+M2,Taksim
+M2,Şişhane
+M2,Haliç
+M2,Vezneciler-İstanbul Üniv.
+M2,Yenikapı
+M3,Bakırköy Sahil
+M3,Özgürlük Meydanı
+M3,İncirli
+M3,Haznedar
+M3,İlkyuva
+M3,Molla Gürani
+M3,Kirazlı-Bağcılar
+M3,Yenimahalle
+M3,Mahmutbey
+M3,İSTOÇ
+M3,İkitelli Sanayi
+M3,Turgut Özal
+M3,Siteler
+M3,Başak Konutları
+M3,Başakşehir-Metrokent
+M3,Onurkent
+M3,Şehir Hastanesi
+M3,Toplu Konutlar
+M3,Kayaşehir Merkez
+M4,Kadıköy
+M4,Ayrılık Çeşme
+M4,Acıbadem
+M4,Ünalan
+M4,Göztepe
+M4,Yenisahra
+M4,Kozyatağı
+M4,Bostancı
+M4,Küçükyalı
+M4,Maltepe
+M4,Huzurevi
+M4,Gülsuyu
+M4,Esenkent
+M4,Hastane – Adliye
+M4,Soğanlık
+M4,Kartal
+M4,Yakacık – Adnan Kahveci
+M4,Pendik
+M4,Tavşantepe
+M5,Üsküdar
+M5,Fıstıkağacı
+M5,Bağlarbaşı
+M5,Altunizade
+M5,Kısıklı
+M5,Bulgurlu
+M5,Ümraniye
+M5,Çarşı
+M5,Yamanevler
+M5,Çakmak
+M5,Ihlamurkuyu
+M5,Altınşehir
+M5,İmam Hatip Lisesi
+M5,Dudullu
+M5,Necip Fazıl
+M5,Çekmeköy
+M5,Meclis
+M5,Sarıgazi
+M5,Sancaktepe
+M5,Samandıra Merkez
+M6,Levent
+M6,Nispetiye
+M6,Etiler
+M6,Boğaziçi Üniversitesi – Hisarüstü
+M7,Yıldız
+M7,Fulya
+M7,Şişli-Mecidiyeköy
+M7,Çağlayan
+M7,Kağıthane
+M7,Nurtepe
+M7,Alibeyköy
+M7,Çırçır Mahallesi
+M7,Veysel Karani-Akşemsettin
+M7,Yeşilpınar
+M7,Kazım Karabekir
+M7,Yenimahalle
+M7,Karadeniz Mahallesi
+M7,Tekstilkent-Giyimkent
+M7,Oruç Reis
+M7,Göztepe
+M7,Mahmutbey
+M8,Parseller
+M8,Huzur
+M8,Dudullu
+M8,Modoko-Keyap
+M8,İmes
+M8,Mevlana
+M8,Kayışdağı
+M8,İçerenköy
+M8,Küçükbakkalköy
+M8,Kozyatağı
+M8,Ayşekadın
+M8,Emin Ali Paşa
+M8,Bostancı
+M9,Ataköy
+M9,Yenibosna
+M9,Çobançeşme
+M9,29 Ekim - Cumhuriyet
+M9,Doğu Sanayi
+M9,15 Temmuz
+M9,Halkalı Caddesi
+M9,Atatürk Mahallesi
+M9,Bahariye
+M9,Masko
+M9,İkitelli Sanayi
+M9,Ziya Gökalp Mahallesi
+M9,Olimpiyat
+M11,Gayrettepe
+M11,Kağıthane
+M11,Hasdal
+M11,Kemerburgaz
+M11,Göktürk
+M11,İhsaniye
+M11,Terminal 2
+M11,İstanbul Havalimanı
+M11,Kargo Terminali

@@ -1,0 +1,481 @@
+Line,transition_hour,Number_of_Trips,Direction,Day_Type,Peak_Hour_Indicator
+M1,0,2,Yenikapı to Kirazlı,Weekday,No
+M1,0,2,Kirazlı to Yenikapı,Weekday,No
+M1,1,2,Yenikapı to Kirazlı,Weekday,No
+M1,1,2,Kirazlı to Yenikapı,Weekday,No
+M1,2,2,Yenikapı to Kirazlı,Weekday,No
+M1,2,2,Kirazlı to Yenikapı,Weekday,No
+M1,3,2,Yenikapı to Kirazlı,Weekday,No
+M1,3,2,Kirazlı to Yenikapı,Weekday,No
+M1,4,2,Yenikapı to Kirazlı,Weekday,No
+M1,4,2,Kirazlı to Yenikapı,Weekday,No
+M1,5,2,Yenikapı to Kirazlı,Weekday,No
+M1,5,2,Kirazlı to Yenikapı,Weekday,No
+M1,6,6,Yenikapı to Kirazlı,Weekday,No
+M1,6,6,Kirazlı to Yenikapı,Weekday,No
+M1,7,6,Yenikapı to Kirazlı,Weekday,Yes
+M1,7,6,Kirazlı to Yenikapı,Weekday,Yes
+M1,8,7,Yenikapı to Kirazlı,Weekday,Yes
+M1,8,7,Kirazlı to Yenikapı,Weekday,Yes
+M1,9,7,Yenikapı to Kirazlı,Weekday,Yes
+M1,9,7,Kirazlı to Yenikapı,Weekday,Yes
+M1,10,7,Yenikapı to Kirazlı,Weekday,No
+M1,10,7,Kirazlı to Yenikapı,Weekday,No
+M1,11,7,Yenikapı to Kirazlı,Weekday,No
+M1,11,7,Kirazlı to Yenikapı,Weekday,No
+M1,12,7,Yenikapı to Kirazlı,Weekday,No
+M1,12,7,Kirazlı to Yenikapı,Weekday,No
+M1,13,7,Yenikapı to Kirazlı,Weekday,No
+M1,13,7,Kirazlı to Yenikapı,Weekday,No
+M1,14,7,Yenikapı to Kirazlı,Weekday,No
+M1,14,7,Kirazlı to Yenikapı,Weekday,No
+M1,15,7,Yenikapı to Kirazlı,Weekday,No
+M1,15,7,Kirazlı to Yenikapı,Weekday,No
+M1,16,7,Yenikapı to Kirazlı,Weekday,Yes
+M1,16,7,Kirazlı to Yenikapı,Weekday,Yes
+M1,17,7,Yenikapı to Kirazlı,Weekday,Yes
+M1,17,7,Kirazlı to Yenikapı,Weekday,Yes
+M1,18,7,Yenikapı to Kirazlı,Weekday,Yes
+M1,18,7,Kirazlı to Yenikapı,Weekday,Yes
+M1,19,7,Yenikapı to Kirazlı,Weekday,No
+M1,19,7,Kirazlı to Yenikapı,Weekday,No
+M1,20,6,Yenikapı to Kirazlı,Weekday,No
+M1,20,6,Kirazlı to Yenikapı,Weekday,No
+M1,21,6,Yenikapı to Kirazlı,Weekday,No
+M1,21,6,Kirazlı to Yenikapı,Weekday,No
+M1,22,6,Yenikapı to Kirazlı,Weekday,No
+M1,22,6,Kirazlı to Yenikapı,Weekday,No
+M1,23,6,Yenikapı to Kirazlı,Weekday,No
+M1,23,6,Kirazlı to Yenikapı,Weekday,No
+M2,0,3,Hacıosman to Yenikapı,Weekday,No
+M2,0,3,Yenikapı to Hacıosman,Weekday,No
+M2,1,2,Hacıosman to Yenikapı,Weekday,No
+M2,1,2,Yenikapı to Hacıosman,Weekday,No
+M2,2,2,Hacıosman to Yenikapı,Weekday,No
+M2,2,2,Yenikapı to Hacıosman,Weekday,No
+M2,3,2,Hacıosman to Yenikapı,Weekday,No
+M2,3,2,Yenikapı to Hacıosman,Weekday,No
+M2,4,2,Hacıosman to Yenikapı,Weekday,No
+M2,4,2,Yenikapı to Hacıosman,Weekday,No
+M2,5,2,Hacıosman to Yenikapı,Weekday,No
+M2,5,2,Yenikapı to Hacıosman,Weekday,No
+M2,6,6,Hacıosman to Yenikapı,Weekday,No
+M2,6,6,Yenikapı to Hacıosman,Weekday,No
+M2,7,6,Hacıosman to Yenikapı,Weekday,Yes
+M2,7,6,Yenikapı to Hacıosman,Weekday,Yes
+M2,8,6,Hacıosman to Yenikapı,Weekday,Yes
+M2,8,6,Yenikapı to Hacıosman,Weekday,Yes
+M2,9,6,Hacıosman to Yenikapı,Weekday,Yes
+M2,9,6,Yenikapı to Hacıosman,Weekday,Yes
+M2,10,6,Hacıosman to Yenikapı,Weekday,No
+M2,10,6,Yenikapı to Hacıosman,Weekday,No
+M2,11,6,Hacıosman to Yenikapı,Weekday,No
+M2,11,6,Yenikapı to Hacıosman,Weekday,No
+M2,12,7,Hacıosman to Yenikapı,Weekday,No
+M2,12,7,Yenikapı to Hacıosman,Weekday,No
+M2,13,9,Hacıosman to Yenikapı,Weekday,No
+M2,13,9,Yenikapı to Hacıosman,Weekday,No
+M2,14,9,Hacıosman to Yenikapı,Weekday,No
+M2,14,9,Yenikapı to Hacıosman,Weekday,No
+M2,15,9,Hacıosman to Yenikapı,Weekday,No
+M2,15,9,Yenikapı to Hacıosman,Weekday,No
+M2,16,9,Hacıosman to Yenikapı,Weekday,Yes
+M2,16,9,Yenikapı to Hacıosman,Weekday,Yes
+M2,17,9,Hacıosman to Yenikapı,Weekday,Yes
+M2,17,9,Yenikapı to Hacıosman,Weekday,Yes
+M2,18,9,Hacıosman to Yenikapı,Weekday,Yes
+M2,18,9,Yenikapı to Hacıosman,Weekday,Yes
+M2,19,9,Hacıosman to Yenikapı,Weekday,No
+M2,19,9,Yenikapı to Hacıosman,Weekday,No
+M2,20,8,Hacıosman to Yenikapı,Weekday,No
+M2,20,8,Yenikapı to Hacıosman,Weekday,No
+M2,21,6,Hacıosman to Yenikapı,Weekday,No
+M2,21,6,Yenikapı to Hacıosman,Weekday,No
+M2,22,6,Hacıosman to Yenikapı,Weekday,No
+M2,22,6,Yenikapı to Hacıosman,Weekday,No
+M2,23,5,Hacıosman to Yenikapı,Weekday,No
+M2,23,5,Yenikapı to Hacıosman,Weekday,No
+M7,0,2,Mahmutbey to Yıldız,Weekday,No
+M7,0,2,Yıldız to Mahmutbey,Weekday,No
+M7,1,2,Mahmutbey to Yıldız,Weekday,No
+M7,1,2,Yıldız to Mahmutbey,Weekday,No
+M7,2,2,Mahmutbey to Yıldız,Weekday,No
+M7,2,2,Yıldız to Mahmutbey,Weekday,No
+M7,3,2,Mahmutbey to Yıldız,Weekday,No
+M7,3,2,Yıldız to Mahmutbey,Weekday,No
+M7,4,2,Mahmutbey to Yıldız,Weekday,No
+M7,4,2,Yıldız to Mahmutbey,Weekday,No
+M7,5,2,Mahmutbey to Yıldız,Weekday,No
+M7,5,2,Yıldız to Mahmutbey,Weekday,No
+M7,6,6,Mahmutbey to Yıldız,Weekday,No
+M7,6,6,Yıldız to Mahmutbey,Weekday,No
+M7,7,6,Mahmutbey to Yıldız,Weekday,Yes
+M7,7,6,Yıldız to Mahmutbey,Weekday,Yes
+M7,8,5,Mahmutbey to Yıldız,Weekday,Yes
+M7,8,5,Yıldız to Mahmutbey,Weekday,Yes
+M7,9,8,Mahmutbey to Yıldız,Weekday,Yes
+M7,9,8,Yıldız to Mahmutbey,Weekday,Yes
+M7,10,8,Mahmutbey to Yıldız,Weekday,No
+M7,10,8,Yıldız to Mahmutbey,Weekday,No
+M7,11,8,Mahmutbey to Yıldız,Weekday,No
+M7,11,8,Yıldız to Mahmutbey,Weekday,No
+M7,12,8,Mahmutbey to Yıldız,Weekday,No
+M7,12,8,Yıldız to Mahmutbey,Weekday,No
+M7,13,8,Mahmutbey to Yıldız,Weekday,No
+M7,13,8,Yıldız to Mahmutbey,Weekday,No
+M7,14,8,Mahmutbey to Yıldız,Weekday,No
+M7,14,8,Yıldız to Mahmutbey,Weekday,No
+M7,15,8,Mahmutbey to Yıldız,Weekday,No
+M7,15,8,Yıldız to Mahmutbey,Weekday,No
+M7,16,8,Mahmutbey to Yıldız,Weekday,Yes
+M7,16,8,Yıldız to Mahmutbey,Weekday,Yes
+M7,17,8,Mahmutbey to Yıldız,Weekday,Yes
+M7,17,8,Yıldız to Mahmutbey,Weekday,Yes
+M7,18,9,Mahmutbey to Yıldız,Weekday,Yes
+M7,18,9,Yıldız to Mahmutbey,Weekday,Yes
+M7,19,9,Mahmutbey to Yıldız,Weekday,No
+M7,19,9,Yıldız to Mahmutbey,Weekday,No
+M7,20,6,Mahmutbey to Yıldız,Weekday,No
+M7,20,6,Yıldız to Mahmutbey,Weekday,No
+M7,21,7,Mahmutbey to Yıldız,Weekday,No
+M7,21,7,Yıldız to Mahmutbey,Weekday,No
+M7,22,6,Mahmutbey to Yıldız,Weekday,No
+M7,22,6,Yıldız to Mahmutbey,Weekday,No
+M7,23,5,Mahmutbey to Yıldız,Weekday,No
+M7,23,5,Yıldız to Mahmutbey,Weekday,No
+M3,0,2,Bakırköy Sahil to Kayaşehir Merkez,Weekday,No
+M3,0,2,Kayaşehir Merkez to Bakırköy Sahil,Weekday,No
+M3,1,2,Bakırköy Sahil to Kayaşehir Merkez,Weekday,No
+M3,1,2,Kayaşehir Merkez to Bakırköy Sahil,Weekday,No
+M3,2,2,Bakırköy Sahil to Kayaşehir Merkez,Weekday,No
+M3,2,2,Kayaşehir Merkez to Bakırköy Sahil,Weekday,No
+M3,3,2,Bakırköy Sahil to Kayaşehir Merkez,Weekday,No
+M3,3,2,Kayaşehir Merkez to Bakırköy Sahil,Weekday,No
+M3,4,2,Bakırköy Sahil to Kayaşehir Merkez,Weekday,No
+M3,4,2,Kayaşehir Merkez to Bakırköy Sahil,Weekday,No
+M3,5,2,Bakırköy Sahil to Kayaşehir Merkez,Weekday,No
+M3,5,2,Kayaşehir Merkez to Bakırköy Sahil,Weekday,No
+M3,6,6,Bakırköy Sahil to Kayaşehir Merkez,Weekday,No
+M3,6,6,Kayaşehir Merkez to Bakırköy Sahil,Weekday,No
+M3,7,6,Bakırköy Sahil to Kayaşehir Merkez,Weekday,Yes
+M3,7,6,Kayaşehir Merkez to Bakırköy Sahil,Weekday,Yes
+M3,8,5,Bakırköy Sahil to Kayaşehir Merkez,Weekday,Yes
+M3,8,5,Kayaşehir Merkez to Bakırköy Sahil,Weekday,Yes
+M3,9,8,Bakırköy Sahil to Kayaşehir Merkez,Weekday,Yes
+M3,9,8,Kayaşehir Merkez to Bakırköy Sahil,Weekday,Yes
+M3,10,8,Bakırköy Sahil to Kayaşehir Merkez,Weekday,No
+M3,10,8,Kayaşehir Merkez to Bakırköy Sahil,Weekday,No
+M3,11,8,Bakırköy Sahil to Kayaşehir Merkez,Weekday,No
+M3,11,8,Kayaşehir Merkez to Bakırköy Sahil,Weekday,No
+M3,12,8,Bakırköy Sahil to Kayaşehir Merkez,Weekday,No
+M3,12,8,Kayaşehir Merkez to Bakırköy Sahil,Weekday,No
+M3,13,8,Bakırköy Sahil to Kayaşehir Merkez,Weekday,No
+M3,13,8,Kayaşehir Merkez to Bakırköy Sahil,Weekday,No
+M3,14,8,Bakırköy Sahil to Kayaşehir Merkez,Weekday,No
+M3,14,8,Kayaşehir Merkez to Bakırköy Sahil,Weekday,No
+M3,15,8,Bakırköy Sahil to Kayaşehir Merkez,Weekday,No
+M3,15,8,Kayaşehir Merkez to Bakırköy Sahil,Weekday,No
+M3,16,8,Bakırköy Sahil to Kayaşehir Merkez,Weekday,Yes
+M3,16,8,Kayaşehir Merkez to Bakırköy Sahil,Weekday,Yes
+M3,17,8,Bakırköy Sahil to Kayaşehir Merkez,Weekday,Yes
+M3,17,8,Kayaşehir Merkez to Bakırköy Sahil,Weekday,Yes
+M3,18,9,Bakırköy Sahil to Kayaşehir Merkez,Weekday,Yes
+M3,18,9,Kayaşehir Merkez to Bakırköy Sahil,Weekday,Yes
+M3,19,9,Bakırköy Sahil to Kayaşehir Merkez,Weekday,No
+M3,19,9,Kayaşehir Merkez to Bakırköy Sahil,Weekday,No
+M3,20,6,Bakırköy Sahil to Kayaşehir Merkez,Weekday,No
+M3,20,6,Kayaşehir Merkez to Bakırköy Sahil,Weekday,No
+M3,21,7,Bakırköy Sahil to Kayaşehir Merkez,Weekday,No
+M3,21,7,Kayaşehir Merkez to Bakırköy Sahil,Weekday,No
+M3,22,6,Bakırköy Sahil to Kayaşehir Merkez,Weekday,No
+M3,22,6,Kayaşehir Merkez to Bakırköy Sahil,Weekday,No
+M3,23,5,Bakırköy Sahil to Kayaşehir Merkez,Weekday,No
+M3,23,5,Kayaşehir Merkez to Bakırköy Sahil,Weekday,No
+M4,0,2,Tavşantepe to Kadıköy,Weekday,No
+M4,0,2,Kadıköy to Tavşantepe,Weekday,No
+M4,1,2,Tavşantepe to Kadıköy,Weekday,No
+M4,1,2,Kadıköy to Tavşantepe,Weekday,No
+M4,2,2,Tavşantepe to Kadıköy,Weekday,No
+M4,2,2,Kadıköy to Tavşantepe,Weekday,No
+M4,3,2,Tavşantepe to Kadıköy,Weekday,No
+M4,3,2,Kadıköy to Tavşantepe,Weekday,No
+M4,4,2,Tavşantepe to Kadıköy,Weekday,No
+M4,4,2,Kadıköy to Tavşantepe,Weekday,No
+M4,5,2,Tavşantepe to Kadıköy,Weekday,No
+M4,5,2,Kadıköy to Tavşantepe,Weekday,No
+M4,6,6,Tavşantepe to Kadıköy,Weekday,No
+M4,6,6,Kadıköy to Tavşantepe,Weekday,No
+M4,7,6,Tavşantepe to Kadıköy,Weekday,Yes
+M4,7,6,Kadıköy to Tavşantepe,Weekday,Yes
+M4,8,5,Tavşantepe to Kadıköy,Weekday,Yes
+M4,8,5,Kadıköy to Tavşantepe,Weekday,Yes
+M4,9,8,Tavşantepe to Kadıköy,Weekday,Yes
+M4,9,8,Kadıköy to Tavşantepe,Weekday,Yes
+M4,10,8,Tavşantepe to Kadıköy,Weekday,No
+M4,10,8,Kadıköy to Tavşantepe,Weekday,No
+M4,11,8,Tavşantepe to Kadıköy,Weekday,No
+M4,11,8,Kadıköy to Tavşantepe,Weekday,No
+M4,12,8,Tavşantepe to Kadıköy,Weekday,No
+M4,12,8,Kadıköy to Tavşantepe,Weekday,No
+M4,13,8,Tavşantepe to Kadıköy,Weekday,No
+M4,13,8,Kadıköy to Tavşantepe,Weekday,No
+M4,14,8,Tavşantepe to Kadıköy,Weekday,No
+M4,14,8,Kadıköy to Tavşantepe,Weekday,No
+M4,15,8,Tavşantepe to Kadıköy,Weekday,No
+M4,15,8,Kadıköy to Tavşantepe,Weekday,No
+M4,16,8,Tavşantepe to Kadıköy,Weekday,Yes
+M4,16,8,Kadıköy to Tavşantepe,Weekday,Yes
+M4,17,8,Tavşantepe to Kadıköy,Weekday,Yes
+M4,17,8,Kadıköy to Tavşantepe,Weekday,Yes
+M4,18,9,Tavşantepe to Kadıköy,Weekday,Yes
+M4,18,9,Kadıköy to Tavşantepe,Weekday,Yes
+M4,19,9,Tavşantepe to Kadıköy,Weekday,No
+M4,19,9,Kadıköy to Tavşantepe,Weekday,No
+M4,20,6,Tavşantepe to Kadıköy,Weekday,No
+M4,20,6,Kadıköy to Tavşantepe,Weekday,No
+M4,21,7,Tavşantepe to Kadıköy,Weekday,No
+M4,21,7,Kadıköy to Tavşantepe,Weekday,No
+M4,22,6,Tavşantepe to Kadıköy,Weekday,No
+M4,22,6,Kadıköy to Tavşantepe,Weekday,No
+M4,23,5,Tavşantepe to Kadıköy,Weekday,No
+M4,23,5,Kadıköy to Tavşantepe,Weekday,No
+M5,0,2,Üsküdar to Samandıra Merkez,Weekday,No
+M5,0,2,Samandıra Merkez to Üsküdar,Weekday,No
+M5,1,2,Üsküdar to Samandıra Merkez,Weekday,No
+M5,1,2,Samandıra Merkez to Üsküdar,Weekday,No
+M5,2,2,Üsküdar to Samandıra Merkez,Weekday,No
+M5,2,2,Samandıra Merkez to Üsküdar,Weekday,No
+M5,3,2,Üsküdar to Samandıra Merkez,Weekday,No
+M5,3,2,Samandıra Merkez to Üsküdar,Weekday,No
+M5,4,2,Üsküdar to Samandıra Merkez,Weekday,No
+M5,4,2,Samandıra Merkez to Üsküdar,Weekday,No
+M5,5,2,Üsküdar to Samandıra Merkez,Weekday,No
+M5,5,2,Samandıra Merkez to Üsküdar,Weekday,No
+M5,6,6,Üsküdar to Samandıra Merkez,Weekday,No
+M5,6,6,Samandıra Merkez to Üsküdar,Weekday,No
+M5,7,6,Üsküdar to Samandıra Merkez,Weekday,Yes
+M5,7,6,Samandıra Merkez to Üsküdar,Weekday,Yes
+M5,8,5,Üsküdar to Samandıra Merkez,Weekday,Yes
+M5,8,5,Samandıra Merkez to Üsküdar,Weekday,Yes
+M5,9,8,Üsküdar to Samandıra Merkez,Weekday,Yes
+M5,9,8,Samandıra Merkez to Üsküdar,Weekday,Yes
+M5,10,8,Üsküdar to Samandıra Merkez,Weekday,No
+M5,10,8,Samandıra Merkez to Üsküdar,Weekday,No
+M5,11,8,Üsküdar to Samandıra Merkez,Weekday,No
+M5,11,8,Samandıra Merkez to Üsküdar,Weekday,No
+M5,12,8,Üsküdar to Samandıra Merkez,Weekday,No
+M5,12,8,Samandıra Merkez to Üsküdar,Weekday,No
+M5,13,8,Üsküdar to Samandıra Merkez,Weekday,No
+M5,13,8,Samandıra Merkez to Üsküdar,Weekday,No
+M5,14,8,Üsküdar to Samandıra Merkez,Weekday,No
+M5,14,8,Samandıra Merkez to Üsküdar,Weekday,No
+M5,15,8,Üsküdar to Samandıra Merkez,Weekday,No
+M5,15,8,Samandıra Merkez to Üsküdar,Weekday,No
+M5,16,8,Üsküdar to Samandıra Merkez,Weekday,Yes
+M5,16,8,Samandıra Merkez to Üsküdar,Weekday,Yes
+M5,17,8,Üsküdar to Samandıra Merkez,Weekday,Yes
+M5,17,8,Samandıra Merkez to Üsküdar,Weekday,Yes
+M5,18,9,Üsküdar to Samandıra Merkez,Weekday,Yes
+M5,18,9,Samandıra Merkez to Üsküdar,Weekday,Yes
+M5,19,9,Üsküdar to Samandıra Merkez,Weekday,No
+M5,19,9,Samandıra Merkez to Üsküdar,Weekday,No
+M5,20,6,Üsküdar to Samandıra Merkez,Weekday,No
+M5,20,6,Samandıra Merkez to Üsküdar,Weekday,No
+M5,21,7,Üsküdar to Samandıra Merkez,Weekday,No
+M5,21,7,Samandıra Merkez to Üsküdar,Weekday,No
+M5,22,6,Üsküdar to Samandıra Merkez,Weekday,No
+M5,22,6,Samandıra Merkez to Üsküdar,Weekday,No
+M5,23,5,Üsküdar to Samandıra Merkez,Weekday,No
+M5,23,5,Samandıra Merkez to Üsküdar,Weekday,No
+M6,0,2,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,No
+M6,0,2,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,No
+M6,1,2,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,No
+M6,1,2,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,No
+M6,2,2,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,No
+M6,2,2,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,No
+M6,3,2,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,No
+M6,3,2,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,No
+M6,4,2,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,No
+M6,4,2,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,No
+M6,5,2,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,No
+M6,5,2,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,No
+M6,6,6,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,No
+M6,6,6,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,No
+M6,7,6,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,Yes
+M6,7,6,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,Yes
+M6,8,5,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,Yes
+M6,8,5,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,Yes
+M6,9,8,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,Yes
+M6,9,8,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,Yes
+M6,10,8,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,No
+M6,10,8,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,No
+M6,11,8,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,No
+M6,11,8,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,No
+M6,12,8,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,No
+M6,12,8,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,No
+M6,13,8,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,No
+M6,13,8,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,No
+M6,14,8,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,No
+M6,14,8,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,No
+M6,15,8,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,No
+M6,15,8,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,No
+M6,16,8,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,Yes
+M6,16,8,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,Yes
+M6,17,8,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,Yes
+M6,17,8,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,Yes
+M6,18,9,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,Yes
+M6,18,9,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,Yes
+M6,19,9,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,No
+M6,19,9,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,No
+M6,20,6,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,No
+M6,20,6,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,No
+M6,21,7,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,No
+M6,21,7,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,No
+M6,22,6,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,No
+M6,22,6,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,No
+M6,23,5,Boğaziçi Üniversitesi – Hisarüstü to Levent,Weekday,No
+M6,23,5,Levent to Boğaziçi Üniversitesi – Hisarüstü,Weekday,No
+M8,0,2,Parseller to Bostancı,Weekday,No
+M8,0,2,Bostancı to Parseller,Weekday,No
+M8,1,2,Parseller to Bostancı,Weekday,No
+M8,1,2,Bostancı to Parseller,Weekday,No
+M8,2,2,Parseller to Bostancı,Weekday,No
+M8,2,2,Bostancı to Parseller,Weekday,No
+M8,3,2,Parseller to Bostancı,Weekday,No
+M8,3,2,Bostancı to Parseller,Weekday,No
+M8,4,2,Parseller to Bostancı,Weekday,No
+M8,4,2,Bostancı to Parseller,Weekday,No
+M8,5,2,Parseller to Bostancı,Weekday,No
+M8,5,2,Bostancı to Parseller,Weekday,No
+M8,6,6,Parseller to Bostancı,Weekday,No
+M8,6,6,Bostancı to Parseller,Weekday,No
+M8,7,6,Parseller to Bostancı,Weekday,Yes
+M8,7,6,Bostancı to Parseller,Weekday,Yes
+M8,8,5,Parseller to Bostancı,Weekday,Yes
+M8,8,5,Bostancı to Parseller,Weekday,Yes
+M8,9,8,Parseller to Bostancı,Weekday,Yes
+M8,9,8,Bostancı to Parseller,Weekday,Yes
+M8,10,8,Parseller to Bostancı,Weekday,No
+M8,10,8,Bostancı to Parseller,Weekday,No
+M8,11,8,Parseller to Bostancı,Weekday,No
+M8,11,8,Bostancı to Parseller,Weekday,No
+M8,12,8,Parseller to Bostancı,Weekday,No
+M8,12,8,Bostancı to Parseller,Weekday,No
+M8,13,8,Parseller to Bostancı,Weekday,No
+M8,13,8,Bostancı to Parseller,Weekday,No
+M8,14,8,Parseller to Bostancı,Weekday,No
+M8,14,8,Bostancı to Parseller,Weekday,No
+M8,15,8,Parseller to Bostancı,Weekday,No
+M8,15,8,Bostancı to Parseller,Weekday,No
+M8,16,8,Parseller to Bostancı,Weekday,Yes
+M8,16,8,Bostancı to Parseller,Weekday,Yes
+M8,17,8,Parseller to Bostancı,Weekday,Yes
+M8,17,8,Bostancı to Parseller,Weekday,Yes
+M8,18,9,Parseller to Bostancı,Weekday,Yes
+M8,18,9,Bostancı to Parseller,Weekday,Yes
+M8,19,9,Parseller to Bostancı,Weekday,No
+M8,19,9,Bostancı to Parseller,Weekday,No
+M8,20,6,Parseller to Bostancı,Weekday,No
+M8,20,6,Bostancı to Parseller,Weekday,No
+M8,21,7,Parseller to Bostancı,Weekday,No
+M8,21,7,Bostancı to Parseller,Weekday,No
+M8,22,6,Parseller to Bostancı,Weekday,No
+M8,22,6,Bostancı to Parseller,Weekday,No
+M8,23,5,Parseller to Bostancı,Weekday,No
+M8,23,5,Bostancı to Parseller,Weekday,No
+M9,0,2,Ataköy to Olimpiyat,Weekday,No
+M9,0,2,Olimpiyat to Ataköy,Weekday,No
+M9,1,2,Ataköy to Olimpiyat,Weekday,No
+M9,1,2,Olimpiyat to Ataköy,Weekday,No
+M9,2,2,Ataköy to Olimpiyat,Weekday,No
+M9,2,2,Olimpiyat to Ataköy,Weekday,No
+M9,3,2,Ataköy to Olimpiyat,Weekday,No
+M9,3,2,Olimpiyat to Ataköy,Weekday,No
+M9,4,2,Ataköy to Olimpiyat,Weekday,No
+M9,4,2,Olimpiyat to Ataköy,Weekday,No
+M9,5,2,Ataköy to Olimpiyat,Weekday,No
+M9,5,2,Olimpiyat to Ataköy,Weekday,No
+M9,6,6,Ataköy to Olimpiyat,Weekday,No
+M9,6,6,Olimpiyat to Ataköy,Weekday,No
+M9,7,6,Ataköy to Olimpiyat,Weekday,Yes
+M9,7,6,Olimpiyat to Ataköy,Weekday,Yes
+M9,8,5,Ataköy to Olimpiyat,Weekday,Yes
+M9,8,5,Olimpiyat to Ataköy,Weekday,Yes
+M9,9,8,Ataköy to Olimpiyat,Weekday,Yes
+M9,9,8,Olimpiyat to Ataköy,Weekday,Yes
+M9,10,8,Ataköy to Olimpiyat,Weekday,No
+M9,10,8,Olimpiyat to Ataköy,Weekday,No
+M9,11,8,Ataköy to Olimpiyat,Weekday,No
+M9,11,8,Olimpiyat to Ataköy,Weekday,No
+M9,12,8,Ataköy to Olimpiyat,Weekday,No
+M9,12,8,Olimpiyat to Ataköy,Weekday,No
+M9,13,8,Ataköy to Olimpiyat,Weekday,No
+M9,13,8,Olimpiyat to Ataköy,Weekday,No
+M9,14,8,Ataköy to Olimpiyat,Weekday,No
+M9,14,8,Olimpiyat to Ataköy,Weekday,No
+M9,15,8,Ataköy to Olimpiyat,Weekday,No
+M9,15,8,Olimpiyat to Ataköy,Weekday,No
+M9,16,8,Ataköy to Olimpiyat,Weekday,Yes
+M9,16,8,Olimpiyat to Ataköy,Weekday,Yes
+M9,17,8,Ataköy to Olimpiyat,Weekday,Yes
+M9,17,8,Olimpiyat to Ataköy,Weekday,Yes
+M9,18,9,Ataköy to Olimpiyat,Weekday,Yes
+M9,18,9,Olimpiyat to Ataköy,Weekday,Yes
+M9,19,9,Ataköy to Olimpiyat,Weekday,No
+M9,19,9,Olimpiyat to Ataköy,Weekday,No
+M9,20,6,Ataköy to Olimpiyat,Weekday,No
+M9,20,6,Olimpiyat to Ataköy,Weekday,No
+M9,21,7,Ataköy to Olimpiyat,Weekday,No
+M9,21,7,Olimpiyat to Ataköy,Weekday,No
+M9,22,6,Ataköy to Olimpiyat,Weekday,No
+M9,22,6,Olimpiyat to Ataköy,Weekday,No
+M9,23,5,Ataköy to Olimpiyat,Weekday,No
+M9,23,5,Olimpiyat to Ataköy,Weekday,No
+M11,0,2,Gayrettepe to İstanbul Havalimanı,Weekday,No
+M11,0,2,İstanbul Havalimanı to Gayrettepe,Weekday,No
+M11,1,2,Gayrettepe to İstanbul Havalimanı,Weekday,No
+M11,1,2,İstanbul Havalimanı to Gayrettepe,Weekday,No
+M11,2,2,Gayrettepe to İstanbul Havalimanı,Weekday,No
+M11,2,2,İstanbul Havalimanı to Gayrettepe,Weekday,No
+M11,3,2,Gayrettepe to İstanbul Havalimanı,Weekday,No
+M11,3,2,İstanbul Havalimanı to Gayrettepe,Weekday,No
+M11,4,2,Gayrettepe to İstanbul Havalimanı,Weekday,No
+M11,4,2,İstanbul Havalimanı to Gayrettepe,Weekday,No
+M11,5,2,Gayrettepe to İstanbul Havalimanı,Weekday,No
+M11,5,2,İstanbul Havalimanı to Gayrettepe,Weekday,No
+M11,6,6,Gayrettepe to İstanbul Havalimanı,Weekday,No
+M11,6,6,İstanbul Havalimanı to Gayrettepe,Weekday,No
+M11,7,6,Gayrettepe to İstanbul Havalimanı,Weekday,Yes
+M11,7,6,İstanbul Havalimanı to Gayrettepe,Weekday,Yes
+M11,8,5,Gayrettepe to İstanbul Havalimanı,Weekday,Yes
+M11,8,5,İstanbul Havalimanı to Gayrettepe,Weekday,Yes
+M11,9,8,Gayrettepe to İstanbul Havalimanı,Weekday,Yes
+M11,9,8,İstanbul Havalimanı to Gayrettepe,Weekday,Yes
+M11,10,8,Gayrettepe to İstanbul Havalimanı,Weekday,No
+M11,10,8,İstanbul Havalimanı to Gayrettepe,Weekday,No
+M11,11,8,Gayrettepe to İstanbul Havalimanı,Weekday,No
+M11,11,8,İstanbul Havalimanı to Gayrettepe,Weekday,No
+M11,12,8,Gayrettepe to İstanbul Havalimanı,Weekday,No
+M11,12,8,İstanbul Havalimanı to Gayrettepe,Weekday,No
+M11,13,8,Gayrettepe to İstanbul Havalimanı,Weekday,No
+M11,13,8,İstanbul Havalimanı to Gayrettepe,Weekday,No
+M11,14,8,Gayrettepe to İstanbul Havalimanı,Weekday,No
+M11,14,8,İstanbul Havalimanı to Gayrettepe,Weekday,No
+M11,15,8,Gayrettepe to İstanbul Havalimanı,Weekday,No
+M11,15,8,İstanbul Havalimanı to Gayrettepe,Weekday,No
+M11,16,8,Gayrettepe to İstanbul Havalimanı,Weekday,Yes
+M11,16,8,İstanbul Havalimanı to Gayrettepe,Weekday,Yes
+M11,17,8,Gayrettepe to İstanbul Havalimanı,Weekday,Yes
+M11,17,8,İstanbul Havalimanı to Gayrettepe,Weekday,Yes
+M11,18,9,Gayrettepe to İstanbul Havalimanı,Weekday,Yes
+M11,18,9,İstanbul Havalimanı to Gayrettepe,Weekday,Yes
+M11,19,9,Gayrettepe to İstanbul Havalimanı,Weekday,No
+M11,19,9,İstanbul Havalimanı to Gayrettepe,Weekday,No
+M11,20,6,Gayrettepe to İstanbul Havalimanı,Weekday,No
+M11,20,6,İstanbul Havalimanı to Gayrettepe,Weekday,No
+M11,21,7,Gayrettepe to İstanbul Havalimanı,Weekday,No
+M11,21,7,İstanbul Havalimanı to Gayrettepe,Weekday,No
+M11,22,6,Gayrettepe to İstanbul Havalimanı,Weekday,No
+M11,22,6,İstanbul Havalimanı to Gayrettepe,Weekday,No
+M11,23,5,Gayrettepe to İstanbul Havalimanı,Weekday,No
+M11,23,5,İstanbul Havalimanı to Gayrettepe,Weekday,No
